@@ -1,0 +1,12 @@
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\bin\Debug\netcoreapp3.1\12.Tailoring Workshop.exe
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\bin\Debug\netcoreapp3.1\12.Tailoring Workshop.deps.json
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\bin\Debug\netcoreapp3.1\12.Tailoring Workshop.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\bin\Debug\netcoreapp3.1\12.Tailoring Workshop.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\bin\Debug\netcoreapp3.1\12.Tailoring Workshop.dll
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\bin\Debug\netcoreapp3.1\12.Tailoring Workshop.pdb
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\obj\Debug\netcoreapp3.1\12.Tailoring Workshop.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\obj\Debug\netcoreapp3.1\12.Tailoring Workshop.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\obj\Debug\netcoreapp3.1\12.Tailoring Workshop.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\obj\Debug\netcoreapp3.1\12.Tailoring Workshop.dll
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\obj\Debug\netcoreapp3.1\12.Tailoring Workshop.pdb
+F:\Visual Studio Emo\SimpleOperation\12.Tailoring Workshop\obj\Debug\netcoreapp3.1\12.Tailoring Workshop.genruntimeconfig.cache

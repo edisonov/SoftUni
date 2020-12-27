@@ -1,0 +1,10 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\bin\Debug\Reck.exe.config
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\bin\Debug\Reck.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\bin\Debug\Reck.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\obj\Debug\Reck.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\obj\Debug\Reck.Point.resources
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\obj\Debug\Reck.Properties.Resources.resources
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\obj\Debug\Reck.csproj.GenerateResource.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\obj\Debug\Reck.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\obj\Debug\Reck.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Reck\obj\Debug\Reck.pdb

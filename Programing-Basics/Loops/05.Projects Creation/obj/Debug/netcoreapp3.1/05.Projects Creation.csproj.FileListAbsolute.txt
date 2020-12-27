@@ -1,0 +1,12 @@
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\bin\Debug\netcoreapp3.1\05.Projects Creation.exe
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\bin\Debug\netcoreapp3.1\05.Projects Creation.deps.json
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\bin\Debug\netcoreapp3.1\05.Projects Creation.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\bin\Debug\netcoreapp3.1\05.Projects Creation.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\bin\Debug\netcoreapp3.1\05.Projects Creation.dll
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\bin\Debug\netcoreapp3.1\05.Projects Creation.pdb
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\obj\Debug\netcoreapp3.1\05.Projects Creation.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\obj\Debug\netcoreapp3.1\05.Projects Creation.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\obj\Debug\netcoreapp3.1\05.Projects Creation.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\obj\Debug\netcoreapp3.1\05.Projects Creation.dll
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\obj\Debug\netcoreapp3.1\05.Projects Creation.pdb
+F:\Visual Studio Emo\SimpleOperation\05.Projects Creation\obj\Debug\netcoreapp3.1\05.Projects Creation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\08. Numbers from 1 to 10.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\08. Numbers from 1 to 10.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\08. Numbers from 1 to 10.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\08. Numbers from 1 to 10.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\08. Numbers from 1 to 10.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\bin\Debug\netcoreapp3.1\08. Numbers from 1 to 10.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\08. Numbers from 1 to 10.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\08. Numbers from 1 to 10.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\08. Numbers from 1 to 10.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\08. Numbers from 1 to 10.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\08. Numbers from 1 to 10.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\08. Numbers from 1 to 10.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Numbers from 1 to 10\obj\Debug\netcoreapp3.1\08. Numbers from 1 to 10.genruntimeconfig.cache

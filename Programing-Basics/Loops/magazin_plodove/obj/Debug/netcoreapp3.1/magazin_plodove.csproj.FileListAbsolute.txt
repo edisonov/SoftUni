@@ -1,0 +1,13 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\bin\Debug\netcoreapp3.1\magazin_plodove.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\bin\Debug\netcoreapp3.1\magazin_plodove.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\bin\Debug\netcoreapp3.1\magazin_plodove.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\bin\Debug\netcoreapp3.1\magazin_plodove.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\bin\Debug\netcoreapp3.1\magazin_plodove.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\bin\Debug\netcoreapp3.1\magazin_plodove.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\obj\Debug\netcoreapp3.1\magazin_plodove.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\obj\Debug\netcoreapp3.1\magazin_plodove.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\obj\Debug\netcoreapp3.1\magazin_plodove.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\obj\Debug\netcoreapp3.1\magazin_plodove.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\obj\Debug\netcoreapp3.1\magazin_plodove.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\obj\Debug\netcoreapp3.1\magazin_plodove.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\magazin_plodove\obj\Debug\netcoreapp3.1\magazin_plodove.genruntimeconfig.cache

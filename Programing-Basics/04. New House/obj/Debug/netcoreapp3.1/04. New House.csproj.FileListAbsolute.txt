@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\obj\Debug\netcoreapp3.1\04. New House.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\obj\Debug\netcoreapp3.1\04. New House.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\obj\Debug\netcoreapp3.1\04. New House.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\obj\Debug\netcoreapp3.1\04. New House.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\bin\Debug\netcoreapp3.1\04. New House.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\bin\Debug\netcoreapp3.1\04. New House.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\bin\Debug\netcoreapp3.1\04. New House.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\bin\Debug\netcoreapp3.1\04. New House.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\bin\Debug\netcoreapp3.1\04. New House.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\bin\Debug\netcoreapp3.1\04. New House.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\obj\Debug\netcoreapp3.1\04. New House.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\obj\Debug\netcoreapp3.1\04. New House.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. New House\obj\Debug\netcoreapp3.1\04. New House.genruntimeconfig.cache

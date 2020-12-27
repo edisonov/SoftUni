@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.exe
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.deps.json
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.dll
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\bin\Debug\netcoreapp3.1\05. Character Sequence.pdb
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.dll
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.pdb
+F:\Visual Studio Emo\Loops - Lab\05. Character Sequence\obj\Debug\netcoreapp3.1\05. Character Sequence.genruntimeconfig.cache

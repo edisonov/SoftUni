@@ -1,0 +1,13 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\bin\Debug\netcoreapp3.1\tochka_figura.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\bin\Debug\netcoreapp3.1\tochka_figura.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\bin\Debug\netcoreapp3.1\tochka_figura.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\bin\Debug\netcoreapp3.1\tochka_figura.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\bin\Debug\netcoreapp3.1\tochka_figura.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\bin\Debug\netcoreapp3.1\tochka_figura.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\obj\Debug\netcoreapp3.1\tochka_figura.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\obj\Debug\netcoreapp3.1\tochka_figura.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\obj\Debug\netcoreapp3.1\tochka_figura.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\obj\Debug\netcoreapp3.1\tochka_figura.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\obj\Debug\netcoreapp3.1\tochka_figura.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\obj\Debug\netcoreapp3.1\tochka_figura.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_figura\obj\Debug\netcoreapp3.1\tochka_figura.genruntimeconfig.cache

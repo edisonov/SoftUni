@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.exe
+F:\Visual Studio Emo\More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.deps.json
+F:\Visual Studio Emo\More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.json
+F:\Visual Studio Emo\More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.runtimeconfig.dev.json
+F:\Visual Studio Emo\More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.dll
+F:\Visual Studio Emo\More Exercises\06. Fishland\bin\Debug\netcoreapp3.1\06. Fishland.pdb
+F:\Visual Studio Emo\More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csprojAssemblyReference.cache
+F:\Visual Studio Emo\More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.AssemblyInfo.cs
+F:\Visual Studio Emo\More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.dll
+F:\Visual Studio Emo\More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.pdb
+F:\Visual Studio Emo\More Exercises\06. Fishland\obj\Debug\netcoreapp3.1\06. Fishland.genruntimeconfig.cache

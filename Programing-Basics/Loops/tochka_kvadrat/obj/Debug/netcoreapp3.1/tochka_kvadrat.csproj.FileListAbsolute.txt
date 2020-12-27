@@ -1,0 +1,12 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\bin\Debug\netcoreapp3.1\tochka_kvadrat.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\bin\Debug\netcoreapp3.1\tochka_kvadrat.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\bin\Debug\netcoreapp3.1\tochka_kvadrat.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\bin\Debug\netcoreapp3.1\tochka_kvadrat.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\bin\Debug\netcoreapp3.1\tochka_kvadrat.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\bin\Debug\netcoreapp3.1\tochka_kvadrat.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\obj\Debug\netcoreapp3.1\tochka_kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\obj\Debug\netcoreapp3.1\tochka_kvadrat.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\obj\Debug\netcoreapp3.1\tochka_kvadrat.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\obj\Debug\netcoreapp3.1\tochka_kvadrat.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\obj\Debug\netcoreapp3.1\tochka_kvadrat.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\tochka_kvadrat\obj\Debug\netcoreapp3.1\tochka_kvadrat.genruntimeconfig.cache

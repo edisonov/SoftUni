@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\bin\Debug\netcoreapp3.1\06. Truck Driver.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Truck Driver\obj\Debug\netcoreapp3.1\06. Truck Driver.genruntimeconfig.cache

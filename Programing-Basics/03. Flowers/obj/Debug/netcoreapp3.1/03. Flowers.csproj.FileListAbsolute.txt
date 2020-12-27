@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\bin\Debug\netcoreapp3.1\03. Flowers.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\03. Flowers\obj\Debug\netcoreapp3.1\03. Flowers.genruntimeconfig.cache

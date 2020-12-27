@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\bin\Debug\netcoreapp3.1\14.Charity Campaign.exe
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\bin\Debug\netcoreapp3.1\14.Charity Campaign.deps.json
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\bin\Debug\netcoreapp3.1\14.Charity Campaign.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\bin\Debug\netcoreapp3.1\14.Charity Campaign.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\bin\Debug\netcoreapp3.1\14.Charity Campaign.dll
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\bin\Debug\netcoreapp3.1\14.Charity Campaign.pdb
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\obj\Debug\netcoreapp3.1\14.Charity Campaign.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\obj\Debug\netcoreapp3.1\14.Charity Campaign.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\obj\Debug\netcoreapp3.1\14.Charity Campaign.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\obj\Debug\netcoreapp3.1\14.Charity Campaign.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\obj\Debug\netcoreapp3.1\14.Charity Campaign.dll
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\obj\Debug\netcoreapp3.1\14.Charity Campaign.pdb
+F:\Visual Studio Emo\SimpleOperation\14.Charity Campaign\obj\Debug\netcoreapp3.1\14.Charity Campaign.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\bin\Debug\netcoreapp3.1\voleibol.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\bin\Debug\netcoreapp3.1\voleibol.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\bin\Debug\netcoreapp3.1\voleibol.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\bin\Debug\netcoreapp3.1\voleibol.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\bin\Debug\netcoreapp3.1\voleibol.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\bin\Debug\netcoreapp3.1\voleibol.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\obj\Debug\netcoreapp3.1\voleibol.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\obj\Debug\netcoreapp3.1\voleibol.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\obj\Debug\netcoreapp3.1\voleibol.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\obj\Debug\netcoreapp3.1\voleibol.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\obj\Debug\netcoreapp3.1\voleibol.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\obj\Debug\netcoreapp3.1\voleibol.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\voleibol\obj\Debug\netcoreapp3.1\voleibol.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\bin\Debug\netcoreapp3.1\07. School Camp.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. School Camp\obj\Debug\netcoreapp3.1\07. School Camp.genruntimeconfig.cache

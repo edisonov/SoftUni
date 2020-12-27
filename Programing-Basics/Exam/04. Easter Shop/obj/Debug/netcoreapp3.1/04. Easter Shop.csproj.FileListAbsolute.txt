@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.exe
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.deps.json
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.runtimeconfig.json
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.runtimeconfig.dev.json
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.dll
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\bin\Debug\netcoreapp3.1\04. Easter Shop.pdb
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.AssemblyInfo.cs
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.dll
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.pdb
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\04. Easter Shop\obj\Debug\netcoreapp3.1\04. Easter Shop.genruntimeconfig.cache

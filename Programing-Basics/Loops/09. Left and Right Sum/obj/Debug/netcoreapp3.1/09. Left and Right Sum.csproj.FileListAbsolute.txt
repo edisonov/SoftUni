@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.exe
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.deps.json
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+F:\Visual Studio Emo\Loops - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.genruntimeconfig.cache

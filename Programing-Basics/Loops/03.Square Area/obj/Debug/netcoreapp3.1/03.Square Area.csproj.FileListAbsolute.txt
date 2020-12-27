@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\bin\Debug\netcoreapp3.1\03.Square Area.exe
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\bin\Debug\netcoreapp3.1\03.Square Area.deps.json
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\bin\Debug\netcoreapp3.1\03.Square Area.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\bin\Debug\netcoreapp3.1\03.Square Area.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\bin\Debug\netcoreapp3.1\03.Square Area.dll
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\bin\Debug\netcoreapp3.1\03.Square Area.pdb
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\obj\Debug\netcoreapp3.1\03.Square Area.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\obj\Debug\netcoreapp3.1\03.Square Area.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\obj\Debug\netcoreapp3.1\03.Square Area.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\obj\Debug\netcoreapp3.1\03.Square Area.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\obj\Debug\netcoreapp3.1\03.Square Area.dll
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\obj\Debug\netcoreapp3.1\03.Square Area.pdb
+F:\Visual Studio Emo\SimpleOperation\03.Square Area\obj\Debug\netcoreapp3.1\03.Square Area.genruntimeconfig.cache

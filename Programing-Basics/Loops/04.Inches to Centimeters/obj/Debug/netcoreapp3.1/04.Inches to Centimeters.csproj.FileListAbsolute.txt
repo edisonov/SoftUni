@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.exe
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.deps.json
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.dll
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\bin\Debug\netcoreapp3.1\04.Inches to Centimeters.pdb
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.dll
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.pdb
+F:\Visual Studio Emo\SimpleOperation\04.Inches to Centimeters\obj\Debug\netcoreapp3.1\04.Inches to Centimeters.genruntimeconfig.cache

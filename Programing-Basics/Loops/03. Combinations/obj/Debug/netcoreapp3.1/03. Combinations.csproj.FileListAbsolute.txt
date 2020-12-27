@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Nested Loops\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.exe
+F:\Visual Studio Emo\Nested Loops\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.deps.json
+F:\Visual Studio Emo\Nested Loops\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.json
+F:\Visual Studio Emo\Nested Loops\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.runtimeconfig.dev.json
+F:\Visual Studio Emo\Nested Loops\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.dll
+F:\Visual Studio Emo\Nested Loops\03. Combinations\bin\Debug\netcoreapp3.1\03. Combinations.pdb
+F:\Visual Studio Emo\Nested Loops\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Nested Loops\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Nested Loops\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.AssemblyInfo.cs
+F:\Visual Studio Emo\Nested Loops\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.dll
+F:\Visual Studio Emo\Nested Loops\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.pdb
+F:\Visual Studio Emo\Nested Loops\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.genruntimeconfig.cache
+F:\Visual Studio Emo\Nested Loops\03. Combinations\obj\Debug\netcoreapp3.1\03. Combinations.csprojAssemblyReference.cache

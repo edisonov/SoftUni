@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\bin\Debug\netcoreapp3.1\07. Invalid Number.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.genruntimeconfig.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Invalid Number\obj\Debug\netcoreapp3.1\07. Invalid Number.csprojAssemblyReference.cache

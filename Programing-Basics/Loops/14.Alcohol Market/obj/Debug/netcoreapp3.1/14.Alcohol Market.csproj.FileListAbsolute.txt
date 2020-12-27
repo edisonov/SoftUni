@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\bin\Debug\netcoreapp3.1\14.Alcohol Market.exe
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\bin\Debug\netcoreapp3.1\14.Alcohol Market.deps.json
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\bin\Debug\netcoreapp3.1\14.Alcohol Market.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\bin\Debug\netcoreapp3.1\14.Alcohol Market.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\bin\Debug\netcoreapp3.1\14.Alcohol Market.dll
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\bin\Debug\netcoreapp3.1\14.Alcohol Market.pdb
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\obj\Debug\netcoreapp3.1\14.Alcohol Market.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\obj\Debug\netcoreapp3.1\14.Alcohol Market.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\obj\Debug\netcoreapp3.1\14.Alcohol Market.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\obj\Debug\netcoreapp3.1\14.Alcohol Market.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\obj\Debug\netcoreapp3.1\14.Alcohol Market.dll
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\obj\Debug\netcoreapp3.1\14.Alcohol Market.pdb
+F:\Visual Studio Emo\SimpleOperation\14.Alcohol Market\obj\Debug\netcoreapp3.1\14.Alcohol Market.genruntimeconfig.cache

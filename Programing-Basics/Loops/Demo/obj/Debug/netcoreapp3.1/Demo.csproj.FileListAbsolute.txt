@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+F:\Visual Studio Emo\SimpleOperation\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+F:\Visual Studio Emo\SimpleOperation\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+F:\Visual Studio Emo\SimpleOperation\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+F:\Visual Studio Emo\SimpleOperation\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+F:\Visual Studio Emo\SimpleOperation\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+F:\Visual Studio Emo\SimpleOperation\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.exe
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.deps.json
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.dll
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.pdb
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.dll
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.pdb
+F:\Visual Studio Emo\Loops - Lab\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.genruntimeconfig.cache

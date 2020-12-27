@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.exe
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.deps.json
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.runtimeconfig.json
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.runtimeconfig.dev.json
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.dll
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\bin\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.pdb
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.AssemblyInfo.cs
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.dll
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.pdb
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.genruntimeconfig.cache
+F:\Visual Studio Emo\More Exercises\10. Weather Forecast - Part 2\obj\Debug\netcoreapp3.1\10. Weather Forecast - Part 2.csprojAssemblyReference.cache

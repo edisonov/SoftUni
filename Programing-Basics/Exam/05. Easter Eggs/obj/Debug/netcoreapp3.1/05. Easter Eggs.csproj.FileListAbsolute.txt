@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.AssemblyInfo.cs
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.exe
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.deps.json
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.runtimeconfig.json
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.runtimeconfig.dev.json
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.dll
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.pdb
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.dll
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.pdb
+F:\Visual Studio Emo\Programming Basics Online Exam - 20 and 21 April 2019\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.genruntimeconfig.cache

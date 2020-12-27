@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tiket_Futbol/1.0.0": {
+        "runtime": {
+          "Tiket_Futbol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tiket_Futbol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

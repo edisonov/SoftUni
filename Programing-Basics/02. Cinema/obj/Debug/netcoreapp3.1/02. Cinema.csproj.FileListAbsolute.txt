@@ -1,0 +1,12 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\bin\Debug\netcoreapp3.1\02. Cinema.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\bin\Debug\netcoreapp3.1\02. Cinema.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\bin\Debug\netcoreapp3.1\02. Cinema.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\bin\Debug\netcoreapp3.1\02. Cinema.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\bin\Debug\netcoreapp3.1\02. Cinema.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\bin\Debug\netcoreapp3.1\02. Cinema.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\obj\Debug\netcoreapp3.1\02. Cinema.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\obj\Debug\netcoreapp3.1\02. Cinema.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\obj\Debug\netcoreapp3.1\02. Cinema.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\obj\Debug\netcoreapp3.1\02. Cinema.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\obj\Debug\netcoreapp3.1\02. Cinema.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Cinema\obj\Debug\netcoreapp3.1\02. Cinema.genruntimeconfig.cache

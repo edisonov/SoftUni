@@ -1,0 +1,13 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\bin\Debug\netcoreapp3.1\Tiket_Futbol.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\bin\Debug\netcoreapp3.1\Tiket_Futbol.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\bin\Debug\netcoreapp3.1\Tiket_Futbol.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\bin\Debug\netcoreapp3.1\Tiket_Futbol.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\bin\Debug\netcoreapp3.1\Tiket_Futbol.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\bin\Debug\netcoreapp3.1\Tiket_Futbol.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\obj\Debug\netcoreapp3.1\Tiket_Futbol.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\obj\Debug\netcoreapp3.1\Tiket_Futbol.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\obj\Debug\netcoreapp3.1\Tiket_Futbol.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\obj\Debug\netcoreapp3.1\Tiket_Futbol.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\obj\Debug\netcoreapp3.1\Tiket_Futbol.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\obj\Debug\netcoreapp3.1\Tiket_Futbol.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\Tiket_Futbol\obj\Debug\netcoreapp3.1\Tiket_Futbol.genruntimeconfig.cache

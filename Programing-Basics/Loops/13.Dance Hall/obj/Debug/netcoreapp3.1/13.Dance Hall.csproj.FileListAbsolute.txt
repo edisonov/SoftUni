@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\bin\Debug\netcoreapp3.1\13.Dance Hall.exe
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\bin\Debug\netcoreapp3.1\13.Dance Hall.deps.json
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\bin\Debug\netcoreapp3.1\13.Dance Hall.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\bin\Debug\netcoreapp3.1\13.Dance Hall.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\bin\Debug\netcoreapp3.1\13.Dance Hall.dll
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\bin\Debug\netcoreapp3.1\13.Dance Hall.pdb
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\obj\Debug\netcoreapp3.1\13.Dance Hall.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\obj\Debug\netcoreapp3.1\13.Dance Hall.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\obj\Debug\netcoreapp3.1\13.Dance Hall.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\obj\Debug\netcoreapp3.1\13.Dance Hall.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\obj\Debug\netcoreapp3.1\13.Dance Hall.dll
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\obj\Debug\netcoreapp3.1\13.Dance Hall.pdb
+F:\Visual Studio Emo\SimpleOperation\13.Dance Hall\obj\Debug\netcoreapp3.1\13.Dance Hall.genruntimeconfig.cache

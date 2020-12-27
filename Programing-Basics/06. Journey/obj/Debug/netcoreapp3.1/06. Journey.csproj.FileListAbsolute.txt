@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\bin\Debug\netcoreapp3.1\06. Journey.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\06. Journey\obj\Debug\netcoreapp3.1\06. Journey.genruntimeconfig.cache

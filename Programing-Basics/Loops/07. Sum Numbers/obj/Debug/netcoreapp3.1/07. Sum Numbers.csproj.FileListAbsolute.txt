@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.exe
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.deps.json
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.dll
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\bin\Debug\netcoreapp3.1\07. Sum Numbers.pdb
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.dll
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.pdb
+F:\Visual Studio Emo\Loops - Lab\07. Sum Numbers\obj\Debug\netcoreapp3.1\07. Sum Numbers.genruntimeconfig.cache

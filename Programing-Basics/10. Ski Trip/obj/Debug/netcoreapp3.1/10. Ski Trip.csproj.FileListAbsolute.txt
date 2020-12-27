@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\bin\Debug\netcoreapp3.1\10. Ski Trip.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\bin\Debug\netcoreapp3.1\10. Ski Trip.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\bin\Debug\netcoreapp3.1\10. Ski Trip.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\bin\Debug\netcoreapp3.1\10. Ski Trip.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\bin\Debug\netcoreapp3.1\10. Ski Trip.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\bin\Debug\netcoreapp3.1\10. Ski Trip.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\obj\Debug\netcoreapp3.1\10. Ski Trip.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\obj\Debug\netcoreapp3.1\10. Ski Trip.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\obj\Debug\netcoreapp3.1\10. Ski Trip.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\obj\Debug\netcoreapp3.1\10. Ski Trip.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\obj\Debug\netcoreapp3.1\10. Ski Trip.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\obj\Debug\netcoreapp3.1\10. Ski Trip.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\10. Ski Trip\obj\Debug\netcoreapp3.1\10. Ski Trip.genruntimeconfig.cache

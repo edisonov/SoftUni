@@ -1,0 +1,13 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\bin\Debug\netcoreapp3.1\logichesko_otricanie.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\bin\Debug\netcoreapp3.1\logichesko_otricanie.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\bin\Debug\netcoreapp3.1\logichesko_otricanie.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\bin\Debug\netcoreapp3.1\logichesko_otricanie.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\bin\Debug\netcoreapp3.1\logichesko_otricanie.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\bin\Debug\netcoreapp3.1\logichesko_otricanie.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\obj\Debug\netcoreapp3.1\logichesko_otricanie.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\obj\Debug\netcoreapp3.1\logichesko_otricanie.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\obj\Debug\netcoreapp3.1\logichesko_otricanie.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\obj\Debug\netcoreapp3.1\logichesko_otricanie.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\obj\Debug\netcoreapp3.1\logichesko_otricanie.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\obj\Debug\netcoreapp3.1\logichesko_otricanie.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_otricanie\obj\Debug\netcoreapp3.1\logichesko_otricanie.genruntimeconfig.cache

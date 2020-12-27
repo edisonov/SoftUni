@@ -1,0 +1,12 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\bin\Debug\netcoreapp3.1\04. Small Shop.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\04. Small Shop\obj\Debug\netcoreapp3.1\04. Small Shop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\bin\Debug\netcoreapp3.1\05. Vacation.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Vacation\obj\Debug\netcoreapp3.1\05. Vacation.genruntimeconfig.cache

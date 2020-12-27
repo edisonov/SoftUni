@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\bin\Debug\netcoreapp3.1\08. Fruit Shop.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\08. Fruit Shop\obj\Debug\netcoreapp3.1\08. Fruit Shop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.exe
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.deps.json
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.runtimeconfig.json
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.runtimeconfig.dev.json
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.dll
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\bin\Debug\netcoreapp3.1\01. Trapeziod Area.pdb
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.csprojAssemblyReference.cache
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.AssemblyInfo.cs
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.dll
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.pdb
+F:\Visual Studio Emo\More Exercises\01. Trapeziod Area\obj\Debug\netcoreapp3.1\01. Trapeziod Area.genruntimeconfig.cache

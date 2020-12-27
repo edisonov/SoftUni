@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.exe
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.deps.json
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.json
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.runtimeconfig.dev.json
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.dll
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\bin\Debug\netcoreapp3.1\02. Triangle Area.pdb
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csprojAssemblyReference.cache
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.AssemblyInfo.cs
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.dll
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.pdb
+F:\Visual Studio Emo\More Exercises\02. Triangle Area\obj\Debug\netcoreapp3.1\02. Triangle Area.genruntimeconfig.cache

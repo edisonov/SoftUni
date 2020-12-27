@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.exe
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.deps.json
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.dll
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\bin\Debug\netcoreapp3.1\08. Fish Tank.pdb
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.dll
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.pdb
+F:\Visual Studio Emo\SimpleOperation\08. Fish Tank\obj\Debug\netcoreapp3.1\08. Fish Tank.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\bin\Debug\netcoreapp3.1\05. Fishing Boat.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\05. Fishing Boat\obj\Debug\netcoreapp3.1\05. Fishing Boat.genruntimeconfig.cache

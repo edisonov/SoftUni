@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\bin\Debug\netcoreapp3.1\07. Operations Between Numbers.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\bin\Debug\netcoreapp3.1\07. Operations Between Numbers.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\bin\Debug\netcoreapp3.1\07. Operations Between Numbers.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\bin\Debug\netcoreapp3.1\07. Operations Between Numbers.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\bin\Debug\netcoreapp3.1\07. Operations Between Numbers.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\bin\Debug\netcoreapp3.1\07. Operations Between Numbers.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\obj\Debug\netcoreapp3.1\07. Operations Between Numbers.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\obj\Debug\netcoreapp3.1\07. Operations Between Numbers.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\obj\Debug\netcoreapp3.1\07. Operations Between Numbers.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\obj\Debug\netcoreapp3.1\07. Operations Between Numbers.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\obj\Debug\netcoreapp3.1\07. Operations Between Numbers.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\obj\Debug\netcoreapp3.1\07. Operations Between Numbers.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\07. Operations Between Numbers\obj\Debug\netcoreapp3.1\07. Operations Between Numbers.genruntimeconfig.cache

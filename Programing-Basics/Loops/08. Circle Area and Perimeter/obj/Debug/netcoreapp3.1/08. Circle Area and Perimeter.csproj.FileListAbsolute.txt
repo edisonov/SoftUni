@@ -1,0 +1,12 @@
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.exe
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.deps.json
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.runtimeconfig.json
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.runtimeconfig.dev.json
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.dll
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\bin\Debug\netcoreapp3.1\08. Circle Area and Perimeter.pdb
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.AssemblyInfo.cs
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.dll
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.pdb
+F:\Visual Studio Emo\More Exercises\08. Circle Area and Perimeter\obj\Debug\netcoreapp3.1\08. Circle Area and Perimeter.genruntimeconfig.cache

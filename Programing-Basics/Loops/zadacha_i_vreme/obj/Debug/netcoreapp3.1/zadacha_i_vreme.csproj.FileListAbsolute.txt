@@ -1,0 +1,13 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\bin\Debug\netcoreapp3.1\zadacha_i_vreme.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\bin\Debug\netcoreapp3.1\zadacha_i_vreme.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\bin\Debug\netcoreapp3.1\zadacha_i_vreme.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\bin\Debug\netcoreapp3.1\zadacha_i_vreme.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\bin\Debug\netcoreapp3.1\zadacha_i_vreme.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\bin\Debug\netcoreapp3.1\zadacha_i_vreme.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\obj\Debug\netcoreapp3.1\zadacha_i_vreme.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\obj\Debug\netcoreapp3.1\zadacha_i_vreme.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\obj\Debug\netcoreapp3.1\zadacha_i_vreme.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\obj\Debug\netcoreapp3.1\zadacha_i_vreme.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\obj\Debug\netcoreapp3.1\zadacha_i_vreme.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\obj\Debug\netcoreapp3.1\zadacha_i_vreme.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_i_vreme\obj\Debug\netcoreapp3.1\zadacha_i_vreme.genruntimeconfig.cache

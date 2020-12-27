@@ -1,0 +1,12 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\bin\Debug\netcoreapp3.1\02. Animal Type.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\02. Animal Type\obj\Debug\netcoreapp3.1\02. Animal Type.genruntimeconfig.cache

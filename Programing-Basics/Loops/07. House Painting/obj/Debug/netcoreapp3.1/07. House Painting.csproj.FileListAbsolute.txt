@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.exe
+F:\Visual Studio Emo\More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.deps.json
+F:\Visual Studio Emo\More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.json
+F:\Visual Studio Emo\More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.runtimeconfig.dev.json
+F:\Visual Studio Emo\More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.dll
+F:\Visual Studio Emo\More Exercises\07. House Painting\bin\Debug\netcoreapp3.1\07. House Painting.pdb
+F:\Visual Studio Emo\More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csprojAssemblyReference.cache
+F:\Visual Studio Emo\More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.AssemblyInfo.cs
+F:\Visual Studio Emo\More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.dll
+F:\Visual Studio Emo\More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.pdb
+F:\Visual Studio Emo\More Exercises\07. House Painting\obj\Debug\netcoreapp3.1\07. House Painting.genruntimeconfig.cache

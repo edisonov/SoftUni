@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "tochka_figura/1.0.0": {
+        "runtime": {
+          "tochka_figura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tochka_figura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

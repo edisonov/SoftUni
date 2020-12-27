@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\bin\Debug\netcoreapp3.1\11.2D Rectangle Area.exe
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\bin\Debug\netcoreapp3.1\11.2D Rectangle Area.deps.json
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\bin\Debug\netcoreapp3.1\11.2D Rectangle Area.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\bin\Debug\netcoreapp3.1\11.2D Rectangle Area.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\bin\Debug\netcoreapp3.1\11.2D Rectangle Area.dll
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\bin\Debug\netcoreapp3.1\11.2D Rectangle Area.pdb
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\obj\Debug\netcoreapp3.1\11.2D Rectangle Area.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\obj\Debug\netcoreapp3.1\11.2D Rectangle Area.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\obj\Debug\netcoreapp3.1\11.2D Rectangle Area.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\obj\Debug\netcoreapp3.1\11.2D Rectangle Area.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\obj\Debug\netcoreapp3.1\11.2D Rectangle Area.dll
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\obj\Debug\netcoreapp3.1\11.2D Rectangle Area.pdb
+F:\Visual Studio Emo\SimpleOperation\11.2D Rectangle Area\obj\Debug\netcoreapp3.1\11.2D Rectangle Area.genruntimeconfig.cache

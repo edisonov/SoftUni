@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.exe
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.deps.json
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.dll
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\bin\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.dll
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.pdb
+F:\Visual Studio Emo\Loops - Lab\02. Half Sum Element\obj\Debug\netcoreapp3.1\02. Half Sum Element.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.exe
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.deps.json
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.runtimeconfig.json
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.runtimeconfig.dev.json
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.dll
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\bin\Debug\netcoreapp3.1\04. Vegetable Market.pdb
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.csprojAssemblyReference.cache
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.AssemblyInfo.cs
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.dll
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.pdb
+F:\Visual Studio Emo\More Exercises\04. Vegetable Market\obj\Debug\netcoreapp3.1\04. Vegetable Market.genruntimeconfig.cache

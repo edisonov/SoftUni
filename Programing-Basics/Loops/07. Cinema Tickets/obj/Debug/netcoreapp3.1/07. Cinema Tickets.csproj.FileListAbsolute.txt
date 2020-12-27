@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.exe
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.deps.json
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.runtimeconfig.json
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.runtimeconfig.dev.json
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.dll
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\bin\Debug\netcoreapp3.1\07. Cinema Tickets.pdb
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.AssemblyInfo.cs
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.dll
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.pdb
+F:\Visual Studio Emo\Nested Loops\07. Cinema Tickets\obj\Debug\netcoreapp3.1\07. Cinema Tickets.genruntimeconfig.cache

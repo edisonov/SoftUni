@@ -1,0 +1,13 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\obj\Debug\netcoreapp3.1\zadacha_travel.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\obj\Debug\netcoreapp3.1\zadacha_travel.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\obj\Debug\netcoreapp3.1\zadacha_travel.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\obj\Debug\netcoreapp3.1\zadacha_travel.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\bin\Debug\netcoreapp3.1\zadacha_travel.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\bin\Debug\netcoreapp3.1\zadacha_travel.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\bin\Debug\netcoreapp3.1\zadacha_travel.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\bin\Debug\netcoreapp3.1\zadacha_travel.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\bin\Debug\netcoreapp3.1\zadacha_travel.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\bin\Debug\netcoreapp3.1\zadacha_travel.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\obj\Debug\netcoreapp3.1\zadacha_travel.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\obj\Debug\netcoreapp3.1\zadacha_travel.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\zadacha_travel\obj\Debug\netcoreapp3.1\zadacha_travel.genruntimeconfig.cache

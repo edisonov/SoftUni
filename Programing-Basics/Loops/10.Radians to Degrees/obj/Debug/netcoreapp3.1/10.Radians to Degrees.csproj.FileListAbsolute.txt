@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\bin\Debug\netcoreapp3.1\10.Radians to Degrees.exe
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\bin\Debug\netcoreapp3.1\10.Radians to Degrees.deps.json
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\bin\Debug\netcoreapp3.1\10.Radians to Degrees.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\bin\Debug\netcoreapp3.1\10.Radians to Degrees.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\bin\Debug\netcoreapp3.1\10.Radians to Degrees.dll
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\bin\Debug\netcoreapp3.1\10.Radians to Degrees.pdb
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\obj\Debug\netcoreapp3.1\10.Radians to Degrees.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\obj\Debug\netcoreapp3.1\10.Radians to Degrees.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\obj\Debug\netcoreapp3.1\10.Radians to Degrees.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\obj\Debug\netcoreapp3.1\10.Radians to Degrees.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\obj\Debug\netcoreapp3.1\10.Radians to Degrees.dll
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\obj\Debug\netcoreapp3.1\10.Radians to Degrees.pdb
+F:\Visual Studio Emo\SimpleOperation\10.Radians to Degrees\obj\Debug\netcoreapp3.1\10.Radians to Degrees.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

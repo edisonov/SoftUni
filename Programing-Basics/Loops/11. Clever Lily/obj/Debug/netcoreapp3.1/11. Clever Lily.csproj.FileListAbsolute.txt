@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.exe
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.deps.json
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.dll
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\bin\Debug\netcoreapp3.1\11. Clever Lily.pdb
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.dll
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.pdb
+F:\Visual Studio Emo\Loops - Lab\11. Clever Lily\obj\Debug\netcoreapp3.1\11. Clever Lily.genruntimeconfig.cache

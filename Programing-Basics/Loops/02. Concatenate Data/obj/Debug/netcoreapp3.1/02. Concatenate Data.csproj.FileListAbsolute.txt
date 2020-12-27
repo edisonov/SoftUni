@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.exe
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.deps.json
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.dll
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\bin\Debug\netcoreapp3.1\02. Concatenate Data.pdb
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.dll
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.pdb
+F:\Visual Studio Emo\SimpleOperation\02. Concatenate Data\obj\Debug\netcoreapp3.1\02. Concatenate Data.genruntimeconfig.cache

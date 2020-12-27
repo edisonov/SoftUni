@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Nested Loops\06. Building\bin\Debug\netcoreapp3.1\06. Building.exe
+F:\Visual Studio Emo\Nested Loops\06. Building\bin\Debug\netcoreapp3.1\06. Building.deps.json
+F:\Visual Studio Emo\Nested Loops\06. Building\bin\Debug\netcoreapp3.1\06. Building.runtimeconfig.json
+F:\Visual Studio Emo\Nested Loops\06. Building\bin\Debug\netcoreapp3.1\06. Building.runtimeconfig.dev.json
+F:\Visual Studio Emo\Nested Loops\06. Building\bin\Debug\netcoreapp3.1\06. Building.dll
+F:\Visual Studio Emo\Nested Loops\06. Building\bin\Debug\netcoreapp3.1\06. Building.pdb
+F:\Visual Studio Emo\Nested Loops\06. Building\obj\Debug\netcoreapp3.1\06. Building.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Nested Loops\06. Building\obj\Debug\netcoreapp3.1\06. Building.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Nested Loops\06. Building\obj\Debug\netcoreapp3.1\06. Building.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Nested Loops\06. Building\obj\Debug\netcoreapp3.1\06. Building.AssemblyInfo.cs
+F:\Visual Studio Emo\Nested Loops\06. Building\obj\Debug\netcoreapp3.1\06. Building.dll
+F:\Visual Studio Emo\Nested Loops\06. Building\obj\Debug\netcoreapp3.1\06. Building.pdb
+F:\Visual Studio Emo\Nested Loops\06. Building\obj\Debug\netcoreapp3.1\06. Building.genruntimeconfig.cache

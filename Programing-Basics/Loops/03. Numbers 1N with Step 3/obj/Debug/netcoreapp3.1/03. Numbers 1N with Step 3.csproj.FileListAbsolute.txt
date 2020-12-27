@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.exe
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.deps.json
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.dll
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.pdb
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.dll
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.pdb
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.genruntimeconfig.cache
+F:\Visual Studio Emo\Loops - Lab\03. Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1N with Step 3.csprojAssemblyReference.cache

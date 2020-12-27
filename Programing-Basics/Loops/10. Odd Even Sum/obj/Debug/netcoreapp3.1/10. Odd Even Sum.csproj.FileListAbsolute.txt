@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.exe
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.deps.json
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+F:\Visual Studio Emo\Loops - Lab\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.genruntimeconfig.cache

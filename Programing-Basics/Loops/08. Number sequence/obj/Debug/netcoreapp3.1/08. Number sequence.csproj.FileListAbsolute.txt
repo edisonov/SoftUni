@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+F:\Visual Studio Emo\Loops - Lab\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.genruntimeconfig.cache

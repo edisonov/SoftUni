@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.exe
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.deps.json
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.runtimeconfig.json
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.runtimeconfig.dev.json
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.dll
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.pdb
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.AssemblyInfo.cs
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.dll
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.pdb
+F:\Visual Studio Emo\Loops - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.genruntimeconfig.cache

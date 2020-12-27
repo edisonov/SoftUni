@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zadacha_travel/1.0.0": {
+        "runtime": {
+          "zadacha_travel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zadacha_travel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

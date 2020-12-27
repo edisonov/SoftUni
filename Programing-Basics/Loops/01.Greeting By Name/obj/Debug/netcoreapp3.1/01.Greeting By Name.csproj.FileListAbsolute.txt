@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\bin\Debug\netcoreapp3.1\01.Greeting By Name.exe
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\bin\Debug\netcoreapp3.1\01.Greeting By Name.deps.json
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\bin\Debug\netcoreapp3.1\01.Greeting By Name.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\bin\Debug\netcoreapp3.1\01.Greeting By Name.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\bin\Debug\netcoreapp3.1\01.Greeting By Name.dll
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\bin\Debug\netcoreapp3.1\01.Greeting By Name.pdb
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\obj\Debug\netcoreapp3.1\01.Greeting By Name.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\obj\Debug\netcoreapp3.1\01.Greeting By Name.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\obj\Debug\netcoreapp3.1\01.Greeting By Name.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\obj\Debug\netcoreapp3.1\01.Greeting By Name.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\obj\Debug\netcoreapp3.1\01.Greeting By Name.dll
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\obj\Debug\netcoreapp3.1\01.Greeting By Name.pdb
+F:\Visual Studio Emo\SimpleOperation\01.Greeting By Name\obj\Debug\netcoreapp3.1\01.Greeting By Name.genruntimeconfig.cache

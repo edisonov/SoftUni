@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\bin\Debug\netcoreapp3.1\06. Pet Shop.exe
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\bin\Debug\netcoreapp3.1\06. Pet Shop.deps.json
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\bin\Debug\netcoreapp3.1\06. Pet Shop.runtimeconfig.json
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\bin\Debug\netcoreapp3.1\06. Pet Shop.runtimeconfig.dev.json
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\bin\Debug\netcoreapp3.1\06. Pet Shop.dll
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\bin\Debug\netcoreapp3.1\06. Pet Shop.pdb
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\obj\Debug\netcoreapp3.1\06. Pet Shop.csprojAssemblyReference.cache
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\obj\Debug\netcoreapp3.1\06. Pet Shop.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\obj\Debug\netcoreapp3.1\06. Pet Shop.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\obj\Debug\netcoreapp3.1\06. Pet Shop.AssemblyInfo.cs
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\obj\Debug\netcoreapp3.1\06. Pet Shop.dll
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\obj\Debug\netcoreapp3.1\06. Pet Shop.pdb
+F:\Visual Studio Emo\SimpleOperation\06. Pet Shop\obj\Debug\netcoreapp3.1\06. Pet Shop.genruntimeconfig.cache

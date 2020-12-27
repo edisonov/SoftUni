@@ -1,0 +1,13 @@
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.exe
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.deps.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.runtimeconfig.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.runtimeconfig.dev.json
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\bin\Debug\netcoreapp3.1\01. Match Tickets.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.csprojAssemblyReference.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.csproj.CoreCompileInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.AssemblyInfoInputs.cache
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.AssemblyInfo.cs
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.dll
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.pdb
+F:\Visual Studio Emo\Conditional Statements Advanced - Lab\01. Match Tickets\obj\Debug\netcoreapp3.1\01. Match Tickets.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\bin\Debug\netcoreapp3.1\comision.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\bin\Debug\netcoreapp3.1\comision.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\bin\Debug\netcoreapp3.1\comision.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\bin\Debug\netcoreapp3.1\comision.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\bin\Debug\netcoreapp3.1\comision.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\bin\Debug\netcoreapp3.1\comision.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\obj\Debug\netcoreapp3.1\comision.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\obj\Debug\netcoreapp3.1\comision.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\obj\Debug\netcoreapp3.1\comision.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\obj\Debug\netcoreapp3.1\comision.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\obj\Debug\netcoreapp3.1\comision.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\obj\Debug\netcoreapp3.1\comision.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\comision\obj\Debug\netcoreapp3.1\comision.genruntimeconfig.cache

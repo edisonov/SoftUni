@@ -1,0 +1,13 @@
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\bin\Debug\netcoreapp3.1\logichesko_ili.exe
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\bin\Debug\netcoreapp3.1\logichesko_ili.deps.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\bin\Debug\netcoreapp3.1\logichesko_ili.runtimeconfig.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\bin\Debug\netcoreapp3.1\logichesko_ili.runtimeconfig.dev.json
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\bin\Debug\netcoreapp3.1\logichesko_ili.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\bin\Debug\netcoreapp3.1\logichesko_ili.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\obj\Debug\netcoreapp3.1\logichesko_ili.csprojAssemblyReference.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\obj\Debug\netcoreapp3.1\logichesko_ili.csproj.CoreCompileInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\obj\Debug\netcoreapp3.1\logichesko_ili.AssemblyInfoInputs.cache
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\obj\Debug\netcoreapp3.1\logichesko_ili.AssemblyInfo.cs
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\obj\Debug\netcoreapp3.1\logichesko_ili.dll
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\obj\Debug\netcoreapp3.1\logichesko_ili.pdb
+C:\Users\Емо\source\repos\slojni_presmqtaniq\logichesko_ili\obj\Debug\netcoreapp3.1\logichesko_ili.genruntimeconfig.cache
