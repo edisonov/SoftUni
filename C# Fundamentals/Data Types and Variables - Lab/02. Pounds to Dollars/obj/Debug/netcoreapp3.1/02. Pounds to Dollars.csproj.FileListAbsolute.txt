@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.genruntimeconfig.cache

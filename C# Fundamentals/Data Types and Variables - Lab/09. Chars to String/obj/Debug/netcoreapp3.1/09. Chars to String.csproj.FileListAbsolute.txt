@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.genruntimeconfig.cache

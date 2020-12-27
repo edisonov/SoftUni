@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.genruntimeconfig.cache

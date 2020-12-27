@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.genruntimeconfig.cache

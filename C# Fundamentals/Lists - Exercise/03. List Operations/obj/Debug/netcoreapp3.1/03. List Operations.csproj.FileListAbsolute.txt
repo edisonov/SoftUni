@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. List Operations.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. List Operations.genruntimeconfig.cache

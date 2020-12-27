@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.genruntimeconfig.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\bin\Debug\netcoreapp3.1\02. Change List.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\02. Change List\obj\Debug\netcoreapp3.1\02. Change List.genruntimeconfig.cache

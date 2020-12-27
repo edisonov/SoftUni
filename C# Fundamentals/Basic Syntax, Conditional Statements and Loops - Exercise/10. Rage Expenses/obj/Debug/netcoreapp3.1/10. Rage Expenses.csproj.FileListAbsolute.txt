@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

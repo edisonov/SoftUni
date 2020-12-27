@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\01. Encrypt, Sort and Print Array.genruntimeconfig.cache

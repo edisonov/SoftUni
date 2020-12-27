@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.genruntimeconfig.cache

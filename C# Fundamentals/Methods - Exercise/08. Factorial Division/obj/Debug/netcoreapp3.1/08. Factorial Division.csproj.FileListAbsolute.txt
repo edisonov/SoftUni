@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.genruntimeconfig.cache

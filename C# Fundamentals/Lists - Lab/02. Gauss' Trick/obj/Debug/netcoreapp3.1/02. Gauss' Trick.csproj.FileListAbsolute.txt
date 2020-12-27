@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\bin\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\02. Gauss' Trick\obj\Debug\netcoreapp3.1\02. Gauss' Trick.genruntimeconfig.cache

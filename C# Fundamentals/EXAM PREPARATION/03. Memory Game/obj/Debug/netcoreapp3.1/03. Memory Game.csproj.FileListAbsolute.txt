@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.genruntimeconfig.cache

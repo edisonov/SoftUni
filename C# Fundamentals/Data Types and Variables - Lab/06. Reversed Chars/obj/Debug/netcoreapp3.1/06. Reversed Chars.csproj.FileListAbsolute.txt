@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\netcoreapp3.1\06. Reversed Chars.genruntimeconfig.cache

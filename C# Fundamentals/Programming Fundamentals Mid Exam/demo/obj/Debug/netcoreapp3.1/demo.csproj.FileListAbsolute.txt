@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache

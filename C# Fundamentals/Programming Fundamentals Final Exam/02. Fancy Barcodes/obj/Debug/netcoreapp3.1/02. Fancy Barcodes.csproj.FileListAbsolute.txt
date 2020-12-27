@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\bin\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\02. Fancy Barcodes\obj\Debug\netcoreapp3.1\02. Fancy Barcodes.genruntimeconfig.cache

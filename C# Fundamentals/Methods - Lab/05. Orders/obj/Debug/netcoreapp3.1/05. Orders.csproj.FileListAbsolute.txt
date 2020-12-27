@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache

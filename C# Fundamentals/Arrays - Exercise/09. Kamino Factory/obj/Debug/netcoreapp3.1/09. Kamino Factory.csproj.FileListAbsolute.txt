@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\bin\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.genruntimeconfig.cache

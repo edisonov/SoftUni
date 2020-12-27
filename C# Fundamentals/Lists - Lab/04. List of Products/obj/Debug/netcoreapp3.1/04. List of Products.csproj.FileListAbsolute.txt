@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sequence of Equal Elements.genruntimeconfig.cache

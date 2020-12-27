@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.genruntimeconfig.cache

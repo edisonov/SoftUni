@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\bin\Debug\netcoreapp3.1\01. SoftUni Reception.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. SoftUni Reception\obj\Debug\netcoreapp3.1\01. SoftUni Reception.genruntimeconfig.cache

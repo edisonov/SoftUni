@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.genruntimeconfig.cache

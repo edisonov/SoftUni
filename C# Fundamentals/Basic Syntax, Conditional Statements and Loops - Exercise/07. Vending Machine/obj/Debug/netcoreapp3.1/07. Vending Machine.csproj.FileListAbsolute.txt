@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.genruntimeconfig.cache

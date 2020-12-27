@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\bin\Debug\netcoreapp3.1\05. Messages.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\05. Messages\obj\Debug\netcoreapp3.1\05. Messages.genruntimeconfig.cache

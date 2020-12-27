@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.genruntimeconfig.cache

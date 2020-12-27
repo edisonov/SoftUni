@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\bin\Debug\netcoreapp3.1\01. Bakery.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\bin\Debug\netcoreapp3.1\01. Bakery.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\bin\Debug\netcoreapp3.1\01. Bakery.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\bin\Debug\netcoreapp3.1\01. Bakery.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\bin\Debug\netcoreapp3.1\01. Bakery.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\bin\Debug\netcoreapp3.1\01. Bakery.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\obj\Debug\netcoreapp3.1\01. Bakery.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\obj\Debug\netcoreapp3.1\01. Bakery.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\obj\Debug\netcoreapp3.1\01. Bakery.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\obj\Debug\netcoreapp3.1\01. Bakery.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\obj\Debug\netcoreapp3.1\01. Bakery.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\obj\Debug\netcoreapp3.1\01. Bakery.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Bakery\obj\Debug\netcoreapp3.1\01. Bakery.genruntimeconfig.cache

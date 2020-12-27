@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.genruntimeconfig.cache

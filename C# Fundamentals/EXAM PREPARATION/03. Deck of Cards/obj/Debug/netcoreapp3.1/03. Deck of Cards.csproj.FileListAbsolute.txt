@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\bin\Debug\netcoreapp3.1\03. Deck of Cards.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\bin\Debug\netcoreapp3.1\03. Deck of Cards.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\bin\Debug\netcoreapp3.1\03. Deck of Cards.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\bin\Debug\netcoreapp3.1\03. Deck of Cards.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\bin\Debug\netcoreapp3.1\03. Deck of Cards.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\bin\Debug\netcoreapp3.1\03. Deck of Cards.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\obj\Debug\netcoreapp3.1\03. Deck of Cards.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\obj\Debug\netcoreapp3.1\03. Deck of Cards.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\obj\Debug\netcoreapp3.1\03. Deck of Cards.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\obj\Debug\netcoreapp3.1\03. Deck of Cards.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\obj\Debug\netcoreapp3.1\03. Deck of Cards.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\obj\Debug\netcoreapp3.1\03. Deck of Cards.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. Deck of Cards\obj\Debug\netcoreapp3.1\03. Deck of Cards.genruntimeconfig.cache

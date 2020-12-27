@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\obj\Debug\netcoreapp3.1\midExam demo.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\obj\Debug\netcoreapp3.1\midExam demo.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\obj\Debug\netcoreapp3.1\midExam demo.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\obj\Debug\netcoreapp3.1\midExam demo.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\bin\Debug\netcoreapp3.1\midExam demo.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\bin\Debug\netcoreapp3.1\midExam demo.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\bin\Debug\netcoreapp3.1\midExam demo.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\bin\Debug\netcoreapp3.1\midExam demo.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\bin\Debug\netcoreapp3.1\midExam demo.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\bin\Debug\netcoreapp3.1\midExam demo.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\obj\Debug\netcoreapp3.1\midExam demo.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\obj\Debug\netcoreapp3.1\midExam demo.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\midExam demo\obj\Debug\netcoreapp3.1\midExam demo.genruntimeconfig.cache

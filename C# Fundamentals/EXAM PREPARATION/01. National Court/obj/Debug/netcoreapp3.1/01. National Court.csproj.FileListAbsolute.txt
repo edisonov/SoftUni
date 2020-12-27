@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\bin\Debug\netcoreapp3.1\01. National Court.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. National Court\obj\Debug\netcoreapp3.1\01. National Court.genruntimeconfig.cache

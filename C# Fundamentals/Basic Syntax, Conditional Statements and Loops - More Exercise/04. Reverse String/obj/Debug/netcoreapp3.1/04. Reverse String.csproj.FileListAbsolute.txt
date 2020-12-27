@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - More Exercise\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

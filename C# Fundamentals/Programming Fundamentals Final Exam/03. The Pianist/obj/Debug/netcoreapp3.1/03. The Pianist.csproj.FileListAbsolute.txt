@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\bin\Debug\netcoreapp3.1\03. The Pianist.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. The Pianist\obj\Debug\netcoreapp3.1\03. The Pianist.genruntimeconfig.cache

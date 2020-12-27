@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.genruntimeconfig.cache

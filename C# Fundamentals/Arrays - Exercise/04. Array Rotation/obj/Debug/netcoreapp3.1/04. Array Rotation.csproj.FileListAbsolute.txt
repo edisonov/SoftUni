@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.genruntimeconfig.cache

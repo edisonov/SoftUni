@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.genruntimeconfig.cache

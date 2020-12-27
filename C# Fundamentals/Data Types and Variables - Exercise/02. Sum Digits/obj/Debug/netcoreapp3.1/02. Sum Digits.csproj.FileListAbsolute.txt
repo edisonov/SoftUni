@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.genruntimeconfig.cache

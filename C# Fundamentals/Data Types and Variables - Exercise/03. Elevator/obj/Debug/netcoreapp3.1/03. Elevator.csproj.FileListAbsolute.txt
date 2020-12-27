@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.genruntimeconfig.cache

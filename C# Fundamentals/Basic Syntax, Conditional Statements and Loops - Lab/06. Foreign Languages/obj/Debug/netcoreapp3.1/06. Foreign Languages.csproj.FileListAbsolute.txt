@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.genruntimeconfig.cache

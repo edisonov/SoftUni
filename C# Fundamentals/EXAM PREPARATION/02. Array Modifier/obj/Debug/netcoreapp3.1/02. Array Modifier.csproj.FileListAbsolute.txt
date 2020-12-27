@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.genruntimeconfig.cache

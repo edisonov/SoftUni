@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.genruntimeconfig.cache

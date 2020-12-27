@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\bin\Debug\netcoreapp3.1\02. Division.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\02. Division\obj\Debug\netcoreapp3.1\02. Division.genruntimeconfig.cache

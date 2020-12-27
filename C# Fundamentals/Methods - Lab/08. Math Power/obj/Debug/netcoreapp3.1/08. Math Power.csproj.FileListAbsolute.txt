@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\bin\Debug\netcoreapp3.1\08. Math Power.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\08. Math Power\obj\Debug\netcoreapp3.1\08. Math Power.genruntimeconfig.cache

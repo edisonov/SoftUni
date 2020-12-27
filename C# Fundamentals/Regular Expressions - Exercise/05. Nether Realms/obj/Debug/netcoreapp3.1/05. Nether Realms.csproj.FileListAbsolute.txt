@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\netcoreapp3.1\05. Nether Realms.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\netcoreapp3.1\05. Nether Realms.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.genruntimeconfig.cache

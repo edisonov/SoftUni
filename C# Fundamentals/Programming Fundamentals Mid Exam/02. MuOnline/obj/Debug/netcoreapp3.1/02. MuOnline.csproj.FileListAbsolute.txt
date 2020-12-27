@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Mid Exam\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.genruntimeconfig.cache

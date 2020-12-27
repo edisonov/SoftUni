@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.genruntimeconfig.cache

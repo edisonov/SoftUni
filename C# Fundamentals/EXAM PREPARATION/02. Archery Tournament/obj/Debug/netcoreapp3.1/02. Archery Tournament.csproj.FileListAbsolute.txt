@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\bin\Debug\netcoreapp3.1\02. Archery Tournament.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. Archery Tournament\obj\Debug\netcoreapp3.1\02. Archery Tournament.genruntimeconfig.cache

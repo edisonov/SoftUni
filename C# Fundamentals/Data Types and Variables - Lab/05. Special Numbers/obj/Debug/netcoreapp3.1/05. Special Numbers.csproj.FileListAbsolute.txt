@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp3.1\05. Special Numbers.genruntimeconfig.cache

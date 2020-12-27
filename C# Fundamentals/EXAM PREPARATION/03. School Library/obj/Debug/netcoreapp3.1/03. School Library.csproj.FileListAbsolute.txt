@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\bin\Debug\netcoreapp3.1\03. School Library.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\bin\Debug\netcoreapp3.1\03. School Library.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\bin\Debug\netcoreapp3.1\03. School Library.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\bin\Debug\netcoreapp3.1\03. School Library.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\bin\Debug\netcoreapp3.1\03. School Library.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\bin\Debug\netcoreapp3.1\03. School Library.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\obj\Debug\netcoreapp3.1\03. School Library.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\obj\Debug\netcoreapp3.1\03. School Library.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\obj\Debug\netcoreapp3.1\03. School Library.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\obj\Debug\netcoreapp3.1\03. School Library.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\obj\Debug\netcoreapp3.1\03. School Library.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\obj\Debug\netcoreapp3.1\03. School Library.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\03. School Library\obj\Debug\netcoreapp3.1\03. School Library.genruntimeconfig.cache

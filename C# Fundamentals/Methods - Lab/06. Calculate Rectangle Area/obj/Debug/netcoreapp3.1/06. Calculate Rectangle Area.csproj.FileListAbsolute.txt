@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.genruntimeconfig.cache

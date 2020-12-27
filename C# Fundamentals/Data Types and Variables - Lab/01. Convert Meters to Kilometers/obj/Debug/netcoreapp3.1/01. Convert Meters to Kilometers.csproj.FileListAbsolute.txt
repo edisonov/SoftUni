@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.genruntimeconfig.cache

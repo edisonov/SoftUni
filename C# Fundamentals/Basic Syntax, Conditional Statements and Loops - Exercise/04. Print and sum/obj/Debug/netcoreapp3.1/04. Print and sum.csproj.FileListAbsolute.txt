@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Exercise\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.genruntimeconfig.cache

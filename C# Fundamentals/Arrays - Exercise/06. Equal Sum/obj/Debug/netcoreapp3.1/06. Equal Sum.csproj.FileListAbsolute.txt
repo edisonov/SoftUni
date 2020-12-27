@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.genruntimeconfig.cache

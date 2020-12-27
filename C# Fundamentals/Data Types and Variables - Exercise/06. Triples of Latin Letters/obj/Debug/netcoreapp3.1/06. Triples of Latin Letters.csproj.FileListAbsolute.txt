@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.genruntimeconfig.cache

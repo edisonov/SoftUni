@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.genruntimeconfig.cache

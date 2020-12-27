@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\bin\Debug\netcoreapp3.1\02. List Manipulator.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\02. List Manipulator\obj\Debug\netcoreapp3.1\02. List Manipulator.genruntimeconfig.cache

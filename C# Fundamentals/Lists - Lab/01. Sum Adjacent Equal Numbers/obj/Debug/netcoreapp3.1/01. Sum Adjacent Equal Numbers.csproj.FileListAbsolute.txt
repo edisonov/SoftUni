@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache

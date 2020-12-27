@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.genruntimeconfig.cache

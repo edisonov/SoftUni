@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.genruntimeconfig.cache

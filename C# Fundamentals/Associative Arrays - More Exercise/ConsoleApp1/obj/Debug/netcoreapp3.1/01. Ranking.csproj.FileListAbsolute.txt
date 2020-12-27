@@ -1,0 +1,4 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.csproj.CoreCompileInputs.cache

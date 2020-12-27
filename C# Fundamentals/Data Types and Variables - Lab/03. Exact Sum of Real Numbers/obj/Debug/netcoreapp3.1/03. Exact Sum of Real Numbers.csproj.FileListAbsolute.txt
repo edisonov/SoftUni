@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp3.1\03. Exact Sum of Real Numbers.genruntimeconfig.cache

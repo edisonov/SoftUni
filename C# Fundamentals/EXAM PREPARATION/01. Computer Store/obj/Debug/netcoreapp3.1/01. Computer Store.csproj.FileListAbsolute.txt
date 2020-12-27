@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.genruntimeconfig.cache

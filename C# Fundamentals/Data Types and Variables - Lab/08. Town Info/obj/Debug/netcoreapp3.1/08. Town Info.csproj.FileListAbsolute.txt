@@ -1,0 +1,12 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.genruntimeconfig.cache

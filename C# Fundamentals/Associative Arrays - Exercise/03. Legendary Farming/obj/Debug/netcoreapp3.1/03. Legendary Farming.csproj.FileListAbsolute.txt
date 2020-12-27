@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.genruntimeconfig.cache

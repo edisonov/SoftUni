@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\EXAM PREPARATION\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.genruntimeconfig.cache

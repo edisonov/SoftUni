@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.genruntimeconfig.cache

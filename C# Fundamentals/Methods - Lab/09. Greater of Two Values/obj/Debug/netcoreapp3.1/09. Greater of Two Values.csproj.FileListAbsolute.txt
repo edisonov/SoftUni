@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.genruntimeconfig.cache

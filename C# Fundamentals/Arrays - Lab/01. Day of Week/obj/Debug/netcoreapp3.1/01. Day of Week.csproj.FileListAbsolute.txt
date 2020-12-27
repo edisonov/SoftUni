@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp3.1\01. Day of Week.genruntimeconfig.cache

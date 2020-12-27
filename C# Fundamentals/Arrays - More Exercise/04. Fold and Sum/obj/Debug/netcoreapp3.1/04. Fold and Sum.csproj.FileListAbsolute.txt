@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - More Exercise\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.genruntimeconfig.cache

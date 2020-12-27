@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Arrays - Lab\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.genruntimeconfig.cache

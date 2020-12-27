@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.genruntimeconfig.cache

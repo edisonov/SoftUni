@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.genruntimeconfig.cache

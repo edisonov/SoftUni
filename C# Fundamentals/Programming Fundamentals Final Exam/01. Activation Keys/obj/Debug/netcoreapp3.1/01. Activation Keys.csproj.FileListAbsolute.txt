@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache

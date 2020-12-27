@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. House Party.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. House Party.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. House Party.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\bin\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. House Party.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. House Party.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. House Party.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. House Party.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Lists - Exercise\03. List Operations\obj\Debug\netcoreapp3.1\03. House Party.genruntimeconfig.cache
