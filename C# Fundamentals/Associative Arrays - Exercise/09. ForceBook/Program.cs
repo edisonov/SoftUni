@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _09._ForceBook
 {
@@ -7,36 +8,50 @@ namespace _09._ForceBook
     {
         static void Main(string[] args)
         {
-            var forceUser = new Dictionary<string, List<string>>();
+            Dictionary<string, string> forceUsers = new Dictionary<string, string>();
 
-            var input = Console.ReadLine();
+            string command = null;
 
-            while (input != "Lumpawaroo")
+            while ((command = Console.ReadLine()) != "Lumpawaroo")
             {
-                var cmdArds = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
-
-                var firstName = cmdArds[0];
-                var secondName = cmdArds[2];
-                var symbol = cmdArds[1];
-
-                if (symbol == "|")
+                var test = command.Split();
+                if (test.Contains("|"))
                 {
-                    if (!forceUser.ContainsKey(firstName))
-                    {
-                        forceUser.Add(firstName, new List<string>() { secondName });
-                    }
+                    string[] commandArr = command.Split(" | ");
+                    string forceSide = commandArr[0];
+                    string forceUser = commandArr[1];
+
+                    if (!forceUsers.ContainsKey(forceUser))
+                        forceUsers.Add(forceUser, forceSide);
+                }
+                else if (test.Contains("->"))
+                {
+                    string[] commandArr = command.Split(" -> ");
+                    string forceUser = commandArr[0];
+                    string forceSide = commandArr[1];
+
+                    if (forceUsers.ContainsKey(forceUser))
+                        forceUsers[forceUser] = forceSide;
                     else
-                    {
+                        forceUsers.Add(forceUser, forceSide);
 
-                    }
+                    Console.WriteLine($"{forceUser} joins the {forceSide} side!");
                 }
-                else
-                {
-
-                }
-
-                input = Console.ReadLine();
             }
+
+            foreach (var users in forceUsers
+                .GroupBy(x => x.Value)
+                .OrderByDescending(x => x.Count())
+                .ThenBy(c => c.Key))
+            {
+                Console.WriteLine($"Side: {users.Key}, Members: {users.Count()}");
+
+                foreach (var elm in users.OrderBy(t => t.Key))
+                {
+                    Console.WriteLine($"! {elm.Key}");
+                }
+            }
+
         }
     }
 }

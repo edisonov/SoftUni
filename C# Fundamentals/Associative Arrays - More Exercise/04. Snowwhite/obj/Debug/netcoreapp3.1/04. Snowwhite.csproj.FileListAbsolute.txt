@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.genruntimeconfig.cache

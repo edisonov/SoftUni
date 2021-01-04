@@ -2,3 +2,12 @@ C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\Cons
 C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.AssemblyInfoInputs.cache
 C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.AssemblyInfo.cs
 C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Ranking.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Ranking.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Ranking.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Ranking.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Ranking.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Ranking.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - More Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Ranking.genruntimeconfig.cache

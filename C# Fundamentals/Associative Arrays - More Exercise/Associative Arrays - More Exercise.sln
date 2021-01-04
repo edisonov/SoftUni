@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Ranking", "ConsoleApp1\01. Ranking.csproj", "{41FCB921-05D1-40BF-B676-3CB5A3916E81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "midExam demo", "midExam demo\midExam demo.csproj", "{59B753E8-0D55-4713-A15D-BA670E6539E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Judge", "02. Judge\02. Judge.csproj", "{DEEEAF56-89EE-41A0-B931-E617489BB3A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. MOBA Challenger", "03. MOBA Challenger\03. MOBA Challenger.csproj", "{1D23FEEE-A190-4D71-B1E1-D780085077FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Snowwhite", "04. Snowwhite\04. Snowwhite.csproj", "{F1780872-AAAC-4BDF-BFF6-D4DB4F63A03A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +21,18 @@ Global
 		{41FCB921-05D1-40BF-B676-3CB5A3916E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41FCB921-05D1-40BF-B676-3CB5A3916E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41FCB921-05D1-40BF-B676-3CB5A3916E81}.Release|Any CPU.Build.0 = Release|Any CPU
-		{59B753E8-0D55-4713-A15D-BA670E6539E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59B753E8-0D55-4713-A15D-BA670E6539E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59B753E8-0D55-4713-A15D-BA670E6539E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59B753E8-0D55-4713-A15D-BA670E6539E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEEEAF56-89EE-41A0-B931-E617489BB3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEEAF56-89EE-41A0-B931-E617489BB3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEEAF56-89EE-41A0-B931-E617489BB3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEEAF56-89EE-41A0-B931-E617489BB3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D23FEEE-A190-4D71-B1E1-D780085077FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D23FEEE-A190-4D71-B1E1-D780085077FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D23FEEE-A190-4D71-B1E1-D780085077FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D23FEEE-A190-4D71-B1E1-D780085077FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1780872-AAAC-4BDF-BFF6-D4DB4F63A03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1780872-AAAC-4BDF-BFF6-D4DB4F63A03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1780872-AAAC-4BDF-BFF6-D4DB4F63A03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1780872-AAAC-4BDF-BFF6-D4DB4F63A03A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

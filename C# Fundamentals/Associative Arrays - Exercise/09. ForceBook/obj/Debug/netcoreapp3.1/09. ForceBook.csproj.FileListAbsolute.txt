@@ -1,0 +1,13 @@
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.exe
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.deps.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.runtimeconfig.dev.json
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\bin\Debug\netcoreapp3.1\09. ForceBook.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.csprojAssemblyReference.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfoInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.AssemblyInfo.cs
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.csproj.CoreCompileInputs.cache
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.dll
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.pdb
+C:\Emo\Visual Studio Emo\C# Fundamentals\Associative Arrays - Exercise\09. ForceBook\obj\Debug\netcoreapp3.1\09. ForceBook.genruntimeconfig.cache
