@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.exe
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.deps.json
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.dll
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\netcoreapp3.1\03. Maximum and Minimum Element.pdb
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.dll
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.pdb
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\netcoreapp3.1\03. Maximum and Minimum Element.genruntimeconfig.cache

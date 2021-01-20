@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.exe
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.deps.json
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.dll
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.pdb
+C:\Emo\SoftUni\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp3.1\09. Simple Text Editor.genruntimeconfig.cache

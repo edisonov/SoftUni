@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.exe
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.deps.json
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.dll
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.pdb
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.dll
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.pdb
+C:\Emo\SoftUni\C# Advanced\Multidimensional Arrays - Lab\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.genruntimeconfig.cache
