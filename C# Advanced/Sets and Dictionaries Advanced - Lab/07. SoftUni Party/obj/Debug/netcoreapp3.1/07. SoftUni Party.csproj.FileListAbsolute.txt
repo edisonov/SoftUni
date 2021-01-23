@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.exe
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.deps.json
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.genruntimeconfig.cache
