@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.exe
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.deps.json
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.dll
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp3.1\03. Periodic Table.pdb
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.dll
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.pdb
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp3.1\03. Periodic Table.genruntimeconfig.cache

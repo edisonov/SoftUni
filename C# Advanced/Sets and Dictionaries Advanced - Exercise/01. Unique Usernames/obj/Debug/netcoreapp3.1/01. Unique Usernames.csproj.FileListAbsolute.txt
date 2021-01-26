@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.exe
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.deps.json
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.dll
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp3.1\01. Unique Usernames.pdb
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.dll
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.pdb
+C:\Emo\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp3.1\01. Unique Usernames.genruntimeconfig.cache
