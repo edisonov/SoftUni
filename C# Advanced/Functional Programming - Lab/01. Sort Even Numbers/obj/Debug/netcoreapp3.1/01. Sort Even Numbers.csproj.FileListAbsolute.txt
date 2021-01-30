@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.exe
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.deps.json
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.genruntimeconfig.cache

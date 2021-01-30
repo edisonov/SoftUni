@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.exe
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.deps.json
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.dll
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\bin\Debug\netcoreapp3.1\04. Add VAT.pdb
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.dll
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.pdb
+C:\Emo\SoftUni\C# Advanced\Functional Programming - Lab\04. Add VAT\obj\Debug\netcoreapp3.1\04. Add VAT.genruntimeconfig.cache
