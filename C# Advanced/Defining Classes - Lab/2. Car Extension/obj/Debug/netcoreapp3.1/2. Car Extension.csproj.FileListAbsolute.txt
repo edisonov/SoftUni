@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.exe
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.deps.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\bin\Debug\netcoreapp3.1\2. Car Extension.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Lab\2. Car Extension\obj\Debug\netcoreapp3.1\2. Car Extension.genruntimeconfig.cache
