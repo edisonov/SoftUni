@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.exe
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.deps.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\02. Creating Constructors.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\02. Creating Constructors.genruntimeconfig.cache

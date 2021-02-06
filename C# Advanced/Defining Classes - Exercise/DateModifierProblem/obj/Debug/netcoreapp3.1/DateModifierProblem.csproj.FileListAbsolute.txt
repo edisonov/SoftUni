@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.exe
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.deps.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.genruntimeconfig.cache

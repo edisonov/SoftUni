@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\bin\Debug\netcoreapp3.1\SpeedRasing.exe
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\bin\Debug\netcoreapp3.1\SpeedRasing.deps.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\bin\Debug\netcoreapp3.1\SpeedRasing.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\bin\Debug\netcoreapp3.1\SpeedRasing.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\bin\Debug\netcoreapp3.1\SpeedRasing.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\bin\Debug\netcoreapp3.1\SpeedRasing.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\obj\Debug\netcoreapp3.1\SpeedRasing.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\obj\Debug\netcoreapp3.1\SpeedRasing.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\obj\Debug\netcoreapp3.1\SpeedRasing.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\obj\Debug\netcoreapp3.1\SpeedRasing.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\obj\Debug\netcoreapp3.1\SpeedRasing.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\obj\Debug\netcoreapp3.1\SpeedRasing.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\SpeedRasing\obj\Debug\netcoreapp3.1\SpeedRasing.genruntimeconfig.cache

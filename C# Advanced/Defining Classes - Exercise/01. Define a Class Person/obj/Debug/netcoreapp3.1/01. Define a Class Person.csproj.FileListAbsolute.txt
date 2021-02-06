@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.exe
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.deps.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\01. Define a Class Person.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\01. Define a Class Person.genruntimeconfig.cache

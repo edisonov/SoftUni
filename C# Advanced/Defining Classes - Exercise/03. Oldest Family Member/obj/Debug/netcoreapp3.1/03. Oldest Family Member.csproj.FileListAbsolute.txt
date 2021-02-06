@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.exe
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.deps.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp3.1\03. Oldest Family Member.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.dll
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.pdb
+C:\Emo\SoftUni\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp3.1\03. Oldest Family Member.genruntimeconfig.cache
