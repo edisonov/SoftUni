@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.exe
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.deps.json
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.dll
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\bin\Debug\netcoreapp3.1\StackProblem.pdb
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.dll
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.pdb
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\StackProblem\obj\Debug\netcoreapp3.1\StackProblem.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.exe
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.deps.json
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.dll
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\bin\Debug\netcoreapp3.1\ListyIteratorProblem.pdb
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.dll
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.pdb
+C:\Emo\SoftUni\C# Advanced\Iterators and Comparators - Exercise\ListyIterator\obj\Debug\netcoreapp3.1\ListyIteratorProblem.genruntimeconfig.cache
