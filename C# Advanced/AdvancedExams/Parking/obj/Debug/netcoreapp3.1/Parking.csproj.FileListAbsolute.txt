@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

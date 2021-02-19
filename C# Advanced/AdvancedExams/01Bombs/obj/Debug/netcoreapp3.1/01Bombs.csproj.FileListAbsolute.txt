@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.exe
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.deps.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.genruntimeconfig.cache
