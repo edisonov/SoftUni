@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.exe
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.deps.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.genruntimeconfig.cache

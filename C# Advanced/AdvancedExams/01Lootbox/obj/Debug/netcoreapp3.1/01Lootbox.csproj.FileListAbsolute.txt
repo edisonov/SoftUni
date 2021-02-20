@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.exe
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.deps.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.genruntimeconfig.cache

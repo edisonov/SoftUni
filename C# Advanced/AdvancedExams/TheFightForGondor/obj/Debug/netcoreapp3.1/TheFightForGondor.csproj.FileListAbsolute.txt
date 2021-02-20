@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.exe
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.deps.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.dll
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.pdb
+C:\Emo\SoftUni\C# Advanced\AdvancedExams\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.genruntimeconfig.cache
