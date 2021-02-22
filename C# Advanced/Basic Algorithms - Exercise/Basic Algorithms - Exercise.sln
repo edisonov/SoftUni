@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Recursive Array Sum", "01. Recursive Array Sum\01. Recursive Array Sum.csproj", "{E71657F2-C668-4458-B7ED-247F97255C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Recursive Factorial", "02. Recursive Factorial\02. Recursive Factorial.csproj", "{26F10988-07B5-4296-B476-964E24DF5C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum of Coins", "03. Sum of Coins\03. Sum of Coins.csproj", "{2532B89A-4470-40A0-9499-159E0AD5F83A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71657F2-C668-4458-B7ED-247F97255C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71657F2-C668-4458-B7ED-247F97255C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71657F2-C668-4458-B7ED-247F97255C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71657F2-C668-4458-B7ED-247F97255C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F10988-07B5-4296-B476-964E24DF5C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F10988-07B5-4296-B476-964E24DF5C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F10988-07B5-4296-B476-964E24DF5C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F10988-07B5-4296-B476-964E24DF5C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2532B89A-4470-40A0-9499-159E0AD5F83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2532B89A-4470-40A0-9499-159E0AD5F83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2532B89A-4470-40A0-9499-159E0AD5F83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2532B89A-4470-40A0-9499-159E0AD5F83A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F8A2D26-8CFA-4E35-9315-99052FAE3F60}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\03. Sum of Coins.exe
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\03. Sum of Coins.deps.json
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\03. Sum of Coins.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\03. Sum of Coins.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\03. Sum of Coins.dll
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\bin\Debug\netcoreapp3.1\03. Sum of Coins.pdb
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\03. Sum of Coins.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\03. Sum of Coins.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\03. Sum of Coins.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\03. Sum of Coins.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\03. Sum of Coins.dll
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\03. Sum of Coins.pdb
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\03. Sum of Coins\obj\Debug\netcoreapp3.1\03. Sum of Coins.genruntimeconfig.cache

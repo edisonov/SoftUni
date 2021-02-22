@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.exe
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.deps.json
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.runtimeconfig.json
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.dll
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\bin\Debug\netcoreapp3.1\02. Recursive Factorial.pdb
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.AssemblyInfo.cs
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.dll
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.pdb
+C:\Emo\SoftUni\C# Advanced\Basic Algorithms - Exercise\02. Recursive Factorial\obj\Debug\netcoreapp3.1\02. Recursive Factorial.genruntimeconfig.cache
