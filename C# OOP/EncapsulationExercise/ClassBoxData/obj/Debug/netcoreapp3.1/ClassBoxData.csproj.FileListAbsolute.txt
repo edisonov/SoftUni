@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache

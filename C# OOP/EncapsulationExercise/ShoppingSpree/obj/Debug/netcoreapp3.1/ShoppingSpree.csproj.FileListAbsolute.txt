@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Emo\SoftUni\C# OOP\EncapsulationExercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache
