@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

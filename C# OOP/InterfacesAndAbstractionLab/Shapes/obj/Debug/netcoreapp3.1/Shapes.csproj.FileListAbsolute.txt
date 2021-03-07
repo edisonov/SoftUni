@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

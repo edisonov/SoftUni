@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache

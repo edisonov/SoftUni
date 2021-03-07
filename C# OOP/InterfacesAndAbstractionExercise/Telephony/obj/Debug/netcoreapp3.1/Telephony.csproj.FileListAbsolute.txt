@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Emo\SoftUni\C# OOP\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache
