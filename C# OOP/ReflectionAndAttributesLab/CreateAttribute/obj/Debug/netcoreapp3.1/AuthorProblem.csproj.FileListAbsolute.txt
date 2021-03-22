@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributesLab\CreateAttribute\obj\Debug\netcoreapp3.1\AuthorProblem.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.exe
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.deps.json
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.dll
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.pdb
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.dll
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.pdb
+C:\Emo\SoftUni\C# OOP\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.genruntimeconfig.cache
