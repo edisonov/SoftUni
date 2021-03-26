@@ -1,0 +1,9 @@
+C:\Emo\SoftUni\C# OOP\UnitTesting\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Emo\SoftUni\C# OOP\UnitTesting\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Emo\SoftUni\C# OOP\UnitTesting\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Emo\SoftUni\C# OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Emo\SoftUni\C# OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

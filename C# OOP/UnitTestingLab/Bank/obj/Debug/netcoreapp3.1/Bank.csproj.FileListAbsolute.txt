@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache

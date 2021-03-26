@@ -1,0 +1,9 @@
+C:\Emo\SoftUni\C# OOP\UnitTesting\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Emo\SoftUni\C# OOP\UnitTesting\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Emo\SoftUni\C# OOP\UnitTesting\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Emo\SoftUni\C# OOP\UnitTesting\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\UnitTesting\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTesting\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\UnitTesting\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTesting\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Emo\SoftUni\C# OOP\UnitTesting\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

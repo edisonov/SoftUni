@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\bin\Debug\netcoreapp3.1\Tests.exe
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\bin\Debug\netcoreapp3.1\Tests.deps.json
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\bin\Debug\netcoreapp3.1\Tests.dll
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\bin\Debug\netcoreapp3.1\Tests.pdb
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\obj\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\obj\Debug\netcoreapp3.1\Tests.dll
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\obj\Debug\netcoreapp3.1\Tests.pdb
+C:\Emo\SoftUni\C# OOP\UnitTestingLab\TestAxe\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache

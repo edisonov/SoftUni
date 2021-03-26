@@ -1,0 +1,9 @@
+C:\Emo\SoftUni\C# OOP\UnitTesting\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+C:\Emo\SoftUni\C# OOP\UnitTesting\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Emo\SoftUni\C# OOP\UnitTesting\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+C:\Emo\SoftUni\C# OOP\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Emo\SoftUni\C# OOP\UnitTesting\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb

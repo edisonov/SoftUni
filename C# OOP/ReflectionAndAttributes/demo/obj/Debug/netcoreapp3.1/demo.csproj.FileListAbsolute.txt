@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
+C:\Emo\SoftUni\C# OOP\ReflectionAndAttributes\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
