@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\bin\Debug\netcoreapp3.1\DependencyInjectionWorkshop.exe
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\bin\Debug\netcoreapp3.1\DependencyInjectionWorkshop.deps.json
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\bin\Debug\netcoreapp3.1\DependencyInjectionWorkshop.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\bin\Debug\netcoreapp3.1\DependencyInjectionWorkshop.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\bin\Debug\netcoreapp3.1\DependencyInjectionWorkshop.dll
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\bin\Debug\netcoreapp3.1\DependencyInjectionWorkshop.pdb
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\obj\Debug\netcoreapp3.1\DependencyInjectionWorkshop.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\obj\Debug\netcoreapp3.1\DependencyInjectionWorkshop.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\obj\Debug\netcoreapp3.1\DependencyInjectionWorkshop.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\obj\Debug\netcoreapp3.1\DependencyInjectionWorkshop.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\obj\Debug\netcoreapp3.1\DependencyInjectionWorkshop.dll
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\obj\Debug\netcoreapp3.1\DependencyInjectionWorkshop.pdb
+C:\Emo\SoftUni\C# OOP\DependencyInjectionWorkshop\DependencyInjectionWorkshop\obj\Debug\netcoreapp3.1\DependencyInjectionWorkshop.genruntimeconfig.cache

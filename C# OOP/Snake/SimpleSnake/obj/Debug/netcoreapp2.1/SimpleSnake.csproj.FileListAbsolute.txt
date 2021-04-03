@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Emo\SoftUni\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
