@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "qvnbR9XgrcgLAQ6IAM9HR+e5R3EyRe66GVax+kA1c+bn/ypyDLZkoUt/pzC1rOYWxbD5JT9a+8OOI4GM3QZOog==",
+  "success": true,
+  "projectFilePath": "C:\\Emo\\SoftUni\\C# OOP\\EXAM\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Емо\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\npoi\\2.5.2\\npoi.2.5.2.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\portable.bouncycastle\\1.8.6\\portable.bouncycastle.1.8.6.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\sharpziplib\\1.2.0\\sharpziplib.1.2.0.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Емо\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

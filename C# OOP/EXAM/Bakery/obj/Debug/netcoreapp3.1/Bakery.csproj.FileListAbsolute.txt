@@ -1,0 +1,26 @@
+C:\Users\Емо\Desktop\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\Емо\Desktop\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\Емо\Desktop\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\Емо\Desktop\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\Емо\Desktop\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\Емо\Desktop\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\Емо\Desktop\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Users\Емо\Desktop\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\Емо\Desktop\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\Емо\Desktop\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\Емо\Desktop\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\Емо\Desktop\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\Емо\Desktop\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Emo\SoftUni\C# OOP\EXAM\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

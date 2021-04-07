@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=90f93eaa_002D13e5_002D4f0c_002D90df_002De34a06376e23/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Counter_IsZeroByDefault" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.Counter_IsZeroByDefault&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.Counter_Increases_WhenAddingDriver&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.AddDriver_ThrowsException_WhenDriverIsNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.AddDriver_ThrowException_WhenDriverNameExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.AddDriver_ReturnsExpectedResultMessage&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
