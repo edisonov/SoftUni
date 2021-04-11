@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Emo\SoftUni\C# OOP\EXAM\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

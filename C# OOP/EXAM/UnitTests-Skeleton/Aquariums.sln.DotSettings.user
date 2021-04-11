@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5ca31a25_002Df093_002D4cc9_002D9378_002D40826b9e43fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Counter_IsZeroByDefault" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.Counter_IsZeroByDefault&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ab4ba6f6_002D1ff2_002D43c4_002D9fd0_002D96127ed9a0e9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Counter_IsZeroByDefault #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.Counter_IsZeroByDefault&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::646C24EC-2751-4BF2-A3A5-2CFD7EA92785::.NETCoreApp,Version=v3.0::Aquariums.Tests.AquariumsTests.Add&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

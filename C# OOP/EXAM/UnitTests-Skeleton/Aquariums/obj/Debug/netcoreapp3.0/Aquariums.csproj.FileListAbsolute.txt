@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Emo\SoftUni\C# OOP\EXAM\UnitTests-Skeleton\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

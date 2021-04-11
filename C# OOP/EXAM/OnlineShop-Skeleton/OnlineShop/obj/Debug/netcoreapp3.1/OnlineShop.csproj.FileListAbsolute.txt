@@ -1,0 +1,13 @@
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+C:\Emo\SoftUni\C# OOP\EXAM\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
