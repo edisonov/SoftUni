@@ -1,0 +1,13 @@
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\higem\OneDrive\Работен плот\New folder\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

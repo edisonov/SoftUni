@@ -2,9 +2,9 @@
 {
     public class DesktopComputer : Computer
     {
-        private const int overallPerformance = 15;
-        public DesktopComputer(int id, string manufacturer, string model, decimal price)
-            : base(id, manufacturer, model, price, overallPerformance)
+        public DesktopComputer(int id, string manufacturer, string model, 
+            decimal price) 
+            : base(id, manufacturer, model, price, 15)
         {
         }
     }

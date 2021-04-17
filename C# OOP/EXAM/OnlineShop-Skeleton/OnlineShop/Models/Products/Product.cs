@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using OnlineShop.Common.Constants;
 
 namespace OnlineShop.Models.Products
 {
@@ -11,9 +8,10 @@ namespace OnlineShop.Models.Products
         private string manufacturer;
         private string model;
         private decimal price;
-        protected double overallPerformance;
+        private double overallPerformance;
 
-        protected Product(int id, string manufacturer, string model, decimal price, double overallPerformance)
+        protected Product(int id, string manufacturer, string model, 
+            decimal price, double overallPerformance)
         {
             this.Id = id;
             this.Manufacturer = manufacturer;
@@ -24,14 +22,13 @@ namespace OnlineShop.Models.Products
 
         public int Id
         {
-            get => id;
+            get => this.id;
             private set
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidProductId);
+                    throw new ArgumentException("Id can not be less or equal than 0.");
                 }
-
                 this.id = value;
             }
         }
@@ -43,9 +40,8 @@ namespace OnlineShop.Models.Products
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidManufacturer);
+                    throw new ArgumentException("Manufacturer can not be empty.");
                 }
-
                 this.manufacturer = value;
             }
         }
@@ -57,8 +53,9 @@ namespace OnlineShop.Models.Products
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidModel);
+                    throw new ArgumentException("Model can not be empty.");
                 }
+                this.model = value;
             }
         }
 
@@ -69,8 +66,9 @@ namespace OnlineShop.Models.Products
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidPrice);
+                    throw new ArgumentException("Price can not be less or equal than 0.");
                 }
+                this.price = value;
             }
         }
 
@@ -81,15 +79,16 @@ namespace OnlineShop.Models.Products
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException(ExceptionMessages.InvalidOverallPerformance);
+                    throw new ArgumentException("Overall Performance can not be less or equal than 0.");
                 }
+                this.overallPerformance = value;
             }
         }
 
         public override string ToString()
         {
-            return $"Overall Performance: {this.OverallPerformance}. " +
-                   $"Price: {this.Price} - {this.GetType().Name}: {this.Manufacturer} {this.Model} (Id: {this.Id})";
+            return $"Overall Performance: {overallPerformance}. "+
+                $"Price: {price} - {this.GetType().Name}: {manufacturer} {model} (Id: {id})";
         }
     }
 }

@@ -3,19 +3,19 @@
     public abstract class Peripheral : Product, IPeripheral
     {
         protected Peripheral(int id, string manufacturer, string model, 
-            decimal price, double overallPerformance, string connectionType)
+            decimal price, double overallPerformance, string connectionType) 
             : base(id, manufacturer, model, price, overallPerformance)
         {
             this.ConnectionType = connectionType;
         }
 
-        public string ConnectionType { get; private set; }
+        public string ConnectionType { get; }
 
         public override string ToString()
         {
-            return $"Overall Performance: {this.OverallPerformance}. " +
-                   $"Price: {this.Price} - {GetType().Name}: {this.Manufacturer} {this.Model} (Id: {this.Id}) " +
-                   $"Connection Type: {this.ConnectionType}";
+            return $"Overall Performance: {OverallPerformance}. "+
+                $"Price: {Price} - {this.GetType().Name}: {Manufacturer} {Model}"+
+                $" (Id: {Id}) Connection Type: {ConnectionType}";
         }
     }
 }

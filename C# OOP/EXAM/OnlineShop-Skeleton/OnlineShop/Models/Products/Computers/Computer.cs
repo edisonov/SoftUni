@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using OnlineShop.Common.Constants;
+using System.Text;
 using OnlineShop.Models.Products.Components;
 using OnlineShop.Models.Products.Peripherals;
 
@@ -14,19 +14,40 @@ namespace OnlineShop.Models.Products.Computers
 
         private readonly List<IComponent> components;
         private readonly List<IPeripheral> peripherals;
+        private readonly List<IComputer> computers;
 
-        protected Computer(int id, string manufacturer, string model, decimal price, 
-            double overallPerformance) 
+        protected Computer(int id, string manufacturer, string model,
+            decimal price, double overallPerformance) 
             : base(id, manufacturer, model, price, overallPerformance)
         {
-            this.Price = price;
             this.OverallPerformance = overallPerformance;
-            this.components = new List<IComponent>();
+            components = new List<IComponent>();
+            peripherals = new List<IPeripheral>();
+            computers = new List<IComputer>();
         }
 
-        public double OverallPerformance { get; private set; }
+        public double OverallPerformance
+        {
+            get => this.overallPerformance;
+            private set
+            {
+                if (components.Any())
+                {
+                    value = computers.Sum(x => x.OverallPerformance);
+                }
 
-        public decimal Price { get; private set; }
+                overallPerformance = value;
+            }
+        }
+
+        public decimal Price
+        {
+            get => this.price;
+            private set
+            {
+
+            }
+        }
 
         public IReadOnlyCollection<IComponent> Components => this.components.AsReadOnly();
 
@@ -34,27 +55,19 @@ namespace OnlineShop.Models.Products.Computers
 
         public void AddComponent(IComponent component)
         {
-            if (this.components.Contains(component))
+            if (components.Contains(component))
             {
-                throw new ArgumentException(string.Format(ExceptionMessages.ExistingComponent, 
-                   component.GetType().Name, typeof(Computer), this.Id ));
+                throw new ArgumentException(
+                    $"Component {component.GetType().Name} " +
+                    $"already exists in {computers.GetType().Name} with Id {Id}.)");
             }
 
-            this.components.Add(component);
+            components.Add(component);
         }
 
         public IComponent RemoveComponent(string componentType)
         {
-            IComponent component = new 
-
-            if (this.components.Any())
-            {
-                throw new ArgumentException(
-                    string.Format(ExceptionMessages.NotExistingComponent,
-                        this.components.GetType().Name, typeof(Computer), this.Id));
-            }
-
-            this.components.IndexOf(componentType);
+            throw new System.NotImplementedException();
         }
 
         public void AddPeripheral(IPeripheral peripheral)
@@ -69,7 +82,22 @@ namespace OnlineShop.Models.Products.Computers
 
         public override string ToString()
         {
-            return base.ToString();
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"Overall Performance: {OverallPerformance}." +
+                          $" Price: {Price} - {this.GetType().Name}: {Manufacturer} {Model}"+
+                $" (Id: {Id})");
+            sb.AppendLine($"Components ({components.Count}):");
+            sb.AppendLine("{component one}");
+            sb.AppendLine("{component two}");
+            sb.AppendLine("{component n}");
+            sb.AppendLine($" Peripherals ({peripherals}); Average Overall Performance" +
+                          $" ({ peripherals}):");
+            sb.AppendLine("{peripheral one}");
+            sb.AppendLine("{peripheral two}");
+            sb.AppendLine("{peripheral n}");
+
+            return sb.ToString().TrimEnd();
         }
     }
 }

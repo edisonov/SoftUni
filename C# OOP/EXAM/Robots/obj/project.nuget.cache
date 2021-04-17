@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gyvX/O6mKyL5FbveVAZ/bF0Pcl6lFWW4Nu26OJYfSNUPZN3c000L2YRRoCMa+mgbDwjxuqCuHRZ/YpSt/POGDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\higem\\OneDrive\\Работен плот\\New folder\\Robots\\Robots.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\higem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\higem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\higem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\higem\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
