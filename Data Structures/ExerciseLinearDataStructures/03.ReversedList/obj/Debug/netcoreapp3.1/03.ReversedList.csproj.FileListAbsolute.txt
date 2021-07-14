@@ -1,0 +1,9 @@
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.deps.json
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.pdb
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.pdb

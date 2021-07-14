@@ -1,0 +1,9 @@
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.deps.json
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.pdb

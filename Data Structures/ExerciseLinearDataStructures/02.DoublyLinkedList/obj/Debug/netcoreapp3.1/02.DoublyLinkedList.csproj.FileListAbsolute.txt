@@ -1,0 +1,9 @@
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.deps.json
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb

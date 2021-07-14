@@ -1,0 +1,9 @@
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.deps.json
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.pdb
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Emo\SoftUni\SoftUni\Data Structures\ExerciseLinearDataStructures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.pdb
