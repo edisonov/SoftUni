@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "47qGjb9ktRdykBfTi/T8y2HkJ1ZEcLTJ7udm9J+KyxYlaOsg+rlEUmL5CTfZtCsWiPWaWOjvm3oI/WRD5OCMPg==",
+  "dgSpecHash": "VfkNwBDZ3aez1v04zdZYF3UsYtEHI7Vv5DFv3HzBUesOBM+/1eTfjwh8DZyq6odccgfAzQ5p13yZbMo9+EwYYw==",
   "success": true,
   "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\Data Structures\\Tree\\Tree.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\higem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\higem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

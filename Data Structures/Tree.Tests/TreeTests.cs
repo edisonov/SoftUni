@@ -1,189 +1,139 @@
 namespace Tree.Tests
 {
     using NUnit.Framework;
-    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using Tree;
 
     public class TreeTests
     {
-        private Tree<int> tree;
+        private TreeFactory _treeFactory;
+        private Tree<int> _tree;
+
 
         [SetUp]
-        public void Setup()
+        public void InitializeFactoryAndTree()
         {
-            this.tree = new Tree<int>(7,
-                new Tree<int>(19,
-                        new Tree<int>(1),
-                        new Tree<int>(12),
-                        new Tree<int>(31)),
-                new Tree<int>(21),
-                new Tree<int>(14,
-                        new Tree<int>(23),
-                        new Tree<int>(6)));
-        }
-
-        [Test]
-        public void TestTreeConstructorNotNull()
-        {
-            Assert.NotNull(tree);
-            Assert.NotNull(tree.Value);
-            Assert.NotNull(tree.Children);
-        }
-
-
-        [Test]
-        public void TestTreeBfsWorksCorrectly()
-        {
-            int[] expected = { 7, 19, 21, 14, 1, 12, 31, 23, 6 };
-            int index = 0;
-            var traversedTree = tree.OrderBfs();
-            foreach (int num in traversedTree)
+            string[] input = new string[]
             {
-                Assert.AreEqual(expected[index++], num);
+                "7 19",
+                "7 21",
+                "7 14",
+                "19 1",
+                "19 12",
+                "19 31",
+                "14 23",
+                "14 6"
+            };
+
+            this._treeFactory = new TreeFactory();
+            this._tree = this._treeFactory.CreateTreeFromStrings(input);
+        }
+
+        [Test]
+        public void TreeCreationShouldWorkSuccessfuly()
+        {
+            Assert.AreEqual(7, this._tree.Key);
+            Assert.NotNull(this._tree.Children);
+            Assert.AreEqual(3, this._tree.Children.Count);
+        }
+
+        [Test]
+        public void TreeAsStringShouldWorkCorrectly()
+        {
+            string expectedOutput = "7\r\n" +
+                "  19\r\n" +
+                "    1\r\n" +
+                "    12\r\n" +
+                "    31\r\n" +
+                "  21\r\n" +
+                "  14\r\n" +
+                "    23\r\n" +
+                "    6";
+
+            Assert.AreEqual(expectedOutput, this._tree.GetAsString());
+        }
+
+        [Test]
+        public void TreeGetLeafKeysShouldWorkCorrectly()
+        {
+            int[] expected = new int[] { 1, 6, 12, 21, 23, 31 };
+            List<int> leafKeys = this._tree.GetLeafKeys()
+                .OrderBy(leaf => leaf)
+                .ToList();
+
+
+            for (int i = 0; i < expected.Length; i++)
+            {
+                Assert.AreEqual(expected[i], leafKeys[i]);
             }
         }
 
         [Test]
-        public void TestTreeDfsWorksCorrectly()
+        public void TreeMiddleNodesShouldWorkCorrectly()
         {
-            int[] expected = { 1, 12, 31, 19, 21, 23, 6, 14, 7 };
-            int index = 0;
-            var traversedTree = tree.OrderDfs();
-            foreach (int num in traversedTree)
+            int[] expected = new int[] { 14, 19 };
+            List<int> middleKeys = this._tree.GetMiddleKeys()
+                .OrderBy(leaf => leaf)
+                .ToList();
+
+
+            for (int i = 0; i < expected.Length; i++)
             {
-                Assert.AreEqual(expected[index++], num);
+                Assert.AreEqual(expected[i], middleKeys[i]);
             }
         }
 
         [Test]
-        public void TestAddChildSubtreeWorksCorrectly()
+        public void TreeDeepestLeftmostNodeShouldWorkCorrectly()
         {
-            tree.AddChild(1, new Tree<int>(-1, new Tree<int>(-2), new Tree<int>(-3)));
-            int[] expected = { -2, -3, -1, 1, 12, 31, 19, 21, 23, 6, 14, 7 };
-            int index = 0;
-            var traversedTree = tree.OrderDfs();
-            foreach (int num in traversedTree)
+            Tree<int> deepestNode = this._tree.GetDeepestLeftomostNode();
+
+            Assert.AreEqual(1, deepestNode.Key);
+        }
+
+
+        [Test]
+        public void TreeLeftmostLongestPathShouldWorkCorrectly()
+        {
+            int[] expectedPath = new int[] { 7, 19, 1 };
+            List<int> longestLeftmostPath = this._tree.GetLongestPath();
+
+            for (int i = 0; i < expectedPath.Length; i++)
             {
-                Assert.AreEqual(expected[index++], num);
+                Assert.AreEqual(expectedPath[i], longestLeftmostPath[i]);
             }
         }
 
         [Test]
-        public void TestAddChildSubtreeThrowsException()
+        public void TreePathsWithGivenSumShouldWorkCorrectly()
         {
-            Assert.Throws<ArgumentNullException>(()
-                => tree.AddChild(77, new Tree<int>(-1, new Tree<int>(-2), new Tree<int>(-3))));
-        }
-
-        [Test]
-        public void TestRemoveNodeWorksCorrectly()
-        {
-            int[] expected = { 7, 21, 14, 23, 6 };
-            tree.RemoveNode(19);
-            var integers = tree.OrderBfs();
-
-            Assert.AreEqual(expected.Length, integers.Count);
-
-            int index = 0;
-            foreach (int num in integers)
+            int[,] expected = new int[,]
             {
-                Assert.AreEqual(expected[index++], num);
+                { 7, 19, 1 },
+                { 7, 14, 6 }
+            };
+
+            List<List<int>> paths = this._tree.PathsWithGivenSum(27);
+
+            for (int i = 0; i < expected.GetLength(0); i++)
+            {
+                for (int j = 0; j < expected.GetLength(1); j++)
+                {
+                    Assert.AreEqual(expected[i, j], paths[i][j]);
+                }
             }
         }
 
         [Test]
-        public void TestRemoveLeafNodeWorksCorrectly()
+        public void TreeAllSubtreesWithGivenSumShouldWorkCorrectly()
         {
-            int[] expected = { 7, 19, 14, 1, 12, 31, 23, 6 };
-            tree.RemoveNode(21);
-            var integers = tree.OrderBfs();
-
-            Assert.AreEqual(expected.Length, integers.Count);
-
-            int index = 0;
-            foreach (int num in integers)
-            {
-                Assert.AreEqual(expected[index++], num);
-            }
-        }
-
-        [Test]
-        public void TestRemoveParentWorksCorrectly()
-        {
-            int[] expected = { };
-            tree.RemoveNode(7);
-
-            var integers = tree.OrderBfs();
-
-            Assert.AreEqual(expected.Length, integers.Count);
-        }
-
-        [Test]
-        public void TestRemoveNodeThrowsException()
-        {
-            Assert.Throws<ArgumentNullException>(()
-                => tree.RemoveNode(77));
-        }
-
-        [Test]
-        public void TestSwapWorksCorrectly()
-        {
-            int[] expected = { 7, 14, 21, 19, 23, 6, 1, 12, 31 };
-            tree.Swap(19, 14);
-            var integers = tree.OrderBfs();
-
-            Assert.AreEqual(expected.Length, integers.Count);
-
-            int index = 0;
-            foreach (int num in integers)
-            {
-                Assert.AreEqual(expected[index++], num);
-            }
-        }
-
-        [Test]
-        public void TestSwapWorksCorrectlyWithLeafNode()
-        {
-            int[] expected = { 7, 23, 21, 14, 19, 6, 1, 12, 31 };
-            tree.Swap(19, 23);
-            var integers = tree.OrderBfs();
-
-            Assert.AreEqual(expected.Length, integers.Count);
-
-            int index = 0;
-            foreach (int num in integers)
-            {
-                Assert.AreEqual(expected[index++], num);
-            }
-        }
-
-        [Test]
-        public void TestSwapRootNodeWorksCorrectly()
-        {
-            int[] expected = { 19, 1, 12, 31 };
-            tree.Swap(7, 19);
-            var integers = tree.OrderBfs();
-
-            Assert.AreEqual(expected.Length, integers.Count);
-
-            int index = 0;
-            foreach (int num in integers)
-            {
-                Assert.AreEqual(expected[index++], num);
-            }
-        }
-
-        [Test]
-        public void TestSwapThrowsExceptionForLeftNode()
-        {
-            Assert.Throws<ArgumentNullException>(()
-                => tree.Swap(77, 19));
-        }
-
-        [Test]
-        public void TestSwapThrowsExceptionForRightNode()
-        {
-            Assert.Throws<ArgumentNullException>(()
-                => tree.Swap(19, 77));
+            List<Tree<int>> subtrees = this._tree.SubTreesWithGivenSum(43);
+            Assert.AreEqual(1, subtrees.Count);
+            string treeAsString = subtrees[0].GetAsString();
+            Assert.IsTrue(treeAsString.Contains("14"));
+            Assert.IsTrue(treeAsString.Contains("23"));
+            Assert.IsTrue(treeAsString.Contains("6"));
         }
     }
 }
