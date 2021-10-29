@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.runtimeconfig.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.runtimeconfig.dev.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.genruntimeconfig.cache

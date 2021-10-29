@@ -1,0 +1,9 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\EntityFrameworkCore\MyClass\bin\Debug\netcoreapp3.1\MyClass.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\EntityFrameworkCore\MyClass\bin\Debug\netcoreapp3.1\MyClass.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\EntityFrameworkCore\MyClass\bin\Debug\netcoreapp3.1\MyClass.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\EntityFrameworkCore\MyClass\obj\Debug\netcoreapp3.1\MyClass.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\EntityFrameworkCore\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\EntityFrameworkCore\MyClass\obj\Debug\netcoreapp3.1\MyClass.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\EntityFrameworkCore\MyClass\obj\Debug\netcoreapp3.1\MyClass.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\EntityFrameworkCore\MyClass\obj\Debug\netcoreapp3.1\MyClass.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\EntityFrameworkCore\MyClass\obj\Debug\netcoreapp3.1\MyClass.pdb
