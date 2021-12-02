@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb

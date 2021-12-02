@@ -1,0 +1,8 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.pdb

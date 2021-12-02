@@ -1,0 +1,17 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\bin\Debug\net5.0\RealEstates.Services.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\bin\Debug\net5.0\RealEstates.Services.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\bin\Debug\net5.0\ref\RealEstates.Services.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\bin\Debug\net5.0\RealEstates.Services.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\bin\Debug\net5.0\RealEstates.Data.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\bin\Debug\net5.0\RealEstates.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\bin\Debug\net5.0\RealEstates.Data.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\bin\Debug\net5.0\RealEstates.Models.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.csproj.CopyComplete
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\obj\Debug\net5.0\ref\RealEstates.Services.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Services\obj\Debug\net5.0\RealEstates.Services.pdb

@@ -1,0 +1,14 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CopyComplete
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.pdb

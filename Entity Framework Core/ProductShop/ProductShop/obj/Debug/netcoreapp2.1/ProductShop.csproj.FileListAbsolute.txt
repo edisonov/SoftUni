@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\ProductShop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache

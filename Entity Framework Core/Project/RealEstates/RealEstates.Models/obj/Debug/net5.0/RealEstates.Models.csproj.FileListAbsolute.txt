@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\bin\Debug\net5.0\RealEstates.Models.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\bin\Debug\net5.0\RealEstates.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\bin\Debug\net5.0\ref\RealEstates.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\bin\Debug\net5.0\RealEstates.Models.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\obj\Debug\net5.0\RealEstates.Models.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\obj\Debug\net5.0\RealEstates.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\obj\Debug\net5.0\RealEstates.Models.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\obj\Debug\net5.0\RealEstates.Models.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\obj\Debug\net5.0\RealEstates.Models.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\obj\Debug\net5.0\RealEstates.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\obj\Debug\net5.0\ref\RealEstates.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Project\RealEstates\RealEstates.Models\obj\Debug\net5.0\RealEstates.Models.pdb

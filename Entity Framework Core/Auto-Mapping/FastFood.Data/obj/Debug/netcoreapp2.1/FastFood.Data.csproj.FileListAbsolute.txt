@@ -1,0 +1,15 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\Auto-Mapping\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.genruntimeconfig.cache

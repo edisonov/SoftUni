@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Emo\SoftUni\SoftUni\Entity Framework Core\CarDealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
