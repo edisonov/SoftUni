@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BasicWebServer.Demo</id>
+    <version>1.0.0</version>
+    <authors>BasicWebServer.Demo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Emo\SoftUni\SoftUni\C# Web\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.Demo.runtimeconfig.json" target="lib\net6.0\BasicWebServer.Demo.runtimeconfig.json" />
+    <file src="C:\Emo\SoftUni\SoftUni\C# Web\BasicWebServer\BasicWebServer\bin\Debug\net6.0\BasicWebServer.Demo.dll" target="lib\net6.0\BasicWebServer.Demo.dll" />
+  </files>
+</package>

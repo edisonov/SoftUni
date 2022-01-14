@@ -1,0 +1,16 @@
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\bin\Debug\net5.0\HttpDemo.exe
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\bin\Debug\net5.0\HttpDemo.deps.json
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\bin\Debug\net5.0\HttpDemo.runtimeconfig.json
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\bin\Debug\net5.0\HttpDemo.runtimeconfig.dev.json
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\bin\Debug\net5.0\HttpDemo.dll
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\bin\Debug\net5.0\ref\HttpDemo.dll
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\bin\Debug\net5.0\HttpDemo.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\obj\Debug\net5.0\HttpDemo.csprojAssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\obj\Debug\net5.0\HttpDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\obj\Debug\net5.0\HttpDemo.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\obj\Debug\net5.0\HttpDemo.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\obj\Debug\net5.0\HttpDemo.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\obj\Debug\net5.0\HttpDemo.dll
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\obj\Debug\net5.0\ref\HttpDemo.dll
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\obj\Debug\net5.0\HttpDemo.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\HttpDemo\HttpDemo\obj\Debug\net5.0\HttpDemo.genruntimeconfig.cache
