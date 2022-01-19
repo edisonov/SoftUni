@@ -10,7 +10,12 @@
       "ProjectGuid": "d3f2aa9d-c6e8-4f69-a16a-b8464e792757",
       "DisplayName": "BasicWebServer.Server",
       "ColorIndex": 1
+    },
+    "f588e22a-68b8-464a-942d-ffcf00d8bac5": {
+      "ProjectGuid": "f588e22a-68b8-464a-942d-ffcf00d8bac5",
+      "DisplayName": "Chronometer",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
