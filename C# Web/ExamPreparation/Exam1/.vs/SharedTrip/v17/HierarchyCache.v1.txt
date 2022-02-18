@@ -1,0 +1,230 @@
+﻿++Solution 'SharedTrip' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:SharedTrip.sln
+++BasicWebServer.Server
+i:{00000000-0000-0000-0000-000000000000}:BasicWebServer.Server
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\basicwebserver.server.csproj
+++Dependencies
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:>178
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:>179
+++Attributes
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\attributes\
+++AuthorizeAttribute.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\attributes\authorizeattribute.cs
+++HttpGetAttribute.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\attributes\httpgetattribute.cs
+++HttpMethodAttribute.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\attributes\httpmethodattribute.cs
+++HttpPostAttribute.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\attributes\httppostattribute.cs
+++Common
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\common\
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\common\
+++Guard.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\common\guard.cs
+++IServiceCollection.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\common\iservicecollection.cs
+++ServiceCollection.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\common\servicecollection.cs
+++Controllers
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\controllers\
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\controllers\
+++Controller.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\controllers\controller.cs
+++HTTP
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\
+++ContentType.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\contenttype.cs
+++Cookie.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\cookie.cs
+++CookieCollection.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\cookiecollection.cs
+++Header.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\header.cs
+++HeaderCollection.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\headercollection.cs
+++Method.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\method.cs
+++Request.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\request.cs
+++Response.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\response.cs
+++Session.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\session.cs
+++StatusCode.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\http\statuscode.cs
+++Identity
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\identity\
+++UserIdentity.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\identity\useridentity.cs
+++Responses
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\
+++BadRequestResponse.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\badrequestresponse.cs
+++ContentResponse.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\contentresponse.cs
+++FileResponse.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\fileresponse.cs
+++HtmlResponse.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\htmlresponse.cs
+++NotFoundResponse.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\notfoundresponse.cs
+++RedirectResponse.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\redirectresponse.cs
+++TextResponse.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\textresponse.cs
+++UnauthorizedResponse.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\unauthorizedresponse.cs
+++ViewResponse.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\responses\viewresponse.cs
+++Routing
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\routing\
+++IRoutingTable.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\routing\iroutingtable.cs
+++RoutingTable.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\routing\routingtable.cs
+++RoutingTableExtension.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\routing\routingtableextension.cs
+++HttpServer.cs
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\httpserver.cs
+++Analyzers
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:analyzers
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:analyzers
+++Frameworks
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:frameworks
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:frameworks
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{f6260181-0c0a-4509-8933-e2474e97ae02}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\basicwebserver.server\microsoft.netcore.app
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\microsoft.netcore.app
+++SharedTrip
+i:{00000000-0000-0000-0000-000000000000}:SharedTrip
+++Contracts
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\contracts\
+++IUserService.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\contracts\iuserservice.cs
+++HomeController.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\controllers\homecontroller.cs
+++TripsController.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\controllers\tripscontroller.cs
+++UsersController.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\controllers\userscontroller.cs
+++Data
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\
+++Models
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\models\
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\models\
+++Trip.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\models\trip.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\models\trip.cs
+++User.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\models\user.cs
+++UserTrip.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\models\usertrip.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\models\usertrip.cs
+++ApplicationDbContext.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\applicationdbcontext.cs
+++DatabaseConfiguration.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\databaseconfiguration.cs
+++Migrations
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\migrations\
+++20220213152431_InitialMigration.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\migrations\20220213152431_initialmigration.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\migrations\applicationdbcontextmodelsnapshot.cs
+++Users
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\models\users\
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\users\
+++RegiterViewModel.cs
+++Services
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\services\
+++UserService.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\services\userservice.cs
+++Views
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\
+++Home
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\home\
+++Index.cshtml
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\home\index.cshtml
+++Trips
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\trips\
+++Add.cshtml
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\trips\add.cshtml
+++All.cshtml
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\trips\all.cshtml
+++Details.cshtml
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\trips\details.cshtml
+++Error.cshtml
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\error.cshtml
+++Layout.cshtml
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\layout.cshtml
+++wwwroot
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\
+++css
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\
+++bootstrap.css
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap.css
+++bootstrap.css.map
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap.css.map
+++bootstrap.min.css
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap.min.css.map
+++bootstrap-grid.css
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.css
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\wwwroot\css\bootstrap-reboot.min.css.map
+++Startup.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\startup.cs
+++Packages
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:packages
+++Projects
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:projects
+++20220213152431_InitialMigration.Designer.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\migrations\20220213152431_initialmigration.designer.cs
+++Login.cshtml
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\users\login.cshtml
+++Register.cshtml
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\views\users\register.cshtml
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\users\higem\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\users\higem\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:>191
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:>192
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:>193
+++RegisterViewModel.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\models\users\registerviewmodel.cs
+++ErrorViewModel.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\models\errorviewmodel.cs
+++IRepository.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\common\irepository.cs
+++NewFolder
+++Repository.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\data\common\repository.cs
+++UserViewModel.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\models\userviewmodel.cs
+++LoginViewModel.cs
+i:{817226be-0695-4a81-89e1-04df9bf3684c}:c:\emo\softuni\softuni\c# web\exampreparation\exam1\sharedtrip\models\users\loginviewmodel.cs

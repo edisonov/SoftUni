@@ -6,6 +6,32 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Views\Home\Content.cshtml" />
+    <None Remove="Views\Home\Html.cshtml" />
+    <None Remove="Views\Home\HtmlFormPost.cshtml" />
+    <None Remove="Views\User\Login.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Views\Home\Content.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Views\Home\Html.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Views\Home\HtmlFormPost.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Views\User\Login.cshtml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\BasicWebServer.Server\BasicWebServer.Server.csproj" />
   </ItemGroup>
 
