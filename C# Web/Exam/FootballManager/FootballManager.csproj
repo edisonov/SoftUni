@@ -29,5 +29,13 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Error.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
   
 </Project>

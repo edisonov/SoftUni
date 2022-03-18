@@ -10,7 +10,7 @@ namespace FootballManager.Data.Models
     public class Player
     {
         [Key]
-        public int Id { get; set; }
+        public string Id { get; set; }
 
         [Required]
         [StringLength(80)]

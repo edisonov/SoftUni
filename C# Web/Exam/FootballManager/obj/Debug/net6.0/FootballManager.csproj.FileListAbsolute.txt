@@ -69,3 +69,4 @@ C:\Emo\SoftUni\SoftUni\C# Web\Exam\FootballManager\obj\Debug\net6.0\FootballMana
 C:\Emo\SoftUni\SoftUni\C# Web\Exam\FootballManager\obj\Debug\net6.0\ref\FootballManager.dll
 C:\Emo\SoftUni\SoftUni\C# Web\Exam\FootballManager\obj\Debug\net6.0\FootballManager.pdb
 C:\Emo\SoftUni\SoftUni\C# Web\Exam\FootballManager\obj\Debug\net6.0\FootballManager.genruntimeconfig.cache
+C:\Emo\SoftUni\SoftUni\C# Web\Exam\FootballManager\bin\Debug\net6.0\Views\Error.cshtml

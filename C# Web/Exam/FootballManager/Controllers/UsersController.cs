@@ -32,7 +32,7 @@ namespace FootballManager.Controllers
         }
 
         [HttpPost]
-        public Response Login(LoginViewModel model)
+        public Response Login(LoginFormViewModel model)
         {
             Request.Session.Clear();
             string id = userService.Login(model);
@@ -62,7 +62,7 @@ namespace FootballManager.Controllers
         }
 
         [HttpPost]
-        public Response Register(RegisterViewModel model)
+        public Response Register(RegisterFormViewModel model)
         {
             var (isRegistered, error) = userService.Register(model);
 
